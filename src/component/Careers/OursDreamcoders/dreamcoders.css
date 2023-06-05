@@ -1,0 +1,71 @@
+
+
+.our-dreamcoders {
+    position: relative;
+    z-index: 1;
+    padding: 30px 0px 60px;
+  }
+  .our-dreamcoders-item:hover {
+    transform: scale(1.08);
+    transition: all 0.3s ease-out;
+  }
+  .our-dreamcoders-item {
+    position: relative;
+    text-align: center;
+    margin-bottom: 40px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .our-dreamcoders-item img {
+    max-width: 100%;
+  }
+
+.our-dreamcoders .our-dreamcoders-item:hover {
+  transform: scale(1.14);
+  transition: all .3s ease-out;
+}
+
+.our-dreamcoders-item:hover .team_content {
+  opacity: 0;
+  visibility: visible;
+  transform: translateY(100%);
+}
+
+.our-dreamcoders .our-dreamcoders-item .team_content {
+  bottom: 0;
+  padding: 17px 0;
+  transition: all .4s ease;
+}
+
+.our-dreamcoders .our-dreamcoders-item .hover_content {
+  background-color: transparent;
+  padding: 0;
+  align-items: flex-end;
+}
+.our-dreamcoders-item:hover .hover_content {
+  opacity: 1;
+  visibility: visible;
+  z-index: 0;
+  transform: scale(1);
+}
+
+.our-dreamcoders-item .hover_content, .our-dreamcoders-item .team_content {
+  position: absolute;
+  width: 100%;
+}
+
+.our-dreamcoders-item .hover_content .n_hover_content {
+  width: 100%;
+}
+
+.our-dreamcoders-item .hover_content {
+  top: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  opacity: .2;
+  visibility: visible;
+  z-index: -1;
+  transition: all .4s ease;
+  transform: scale(.9);
+}

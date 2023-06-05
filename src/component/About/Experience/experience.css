@@ -1,0 +1,62 @@
+/*==========STYLES===========*/
+.about-experience {
+    background: url("../../../img/about/fondo-nuestra-experiencia.jpg") no-repeat scroll center bottom;
+    background-size: cover;
+}
+
+
+
+.experience-content {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.slideInLeft {
+    -webkit-animation: slideInleft 3s infinite alternate;
+    animation: slideInleft 3s infinite alternate;
+}
+
+.animation-rotateLeft {
+    animation: slideInleft 5s, rotate 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.animation-rotate {
+    animation: rotate 5s infinite alternate;
+}
+
+
+/*==========ANIMATION===========*/
+
+@keyframes slideInleft {
+    0% {
+        transform: translateX(80%)
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+
+@keyframes rotate {
+    100% {
+        transform: rotate(-100deg);
+    }
+}
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .f_sm_40 {
+        font-size: 30px;
+    }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

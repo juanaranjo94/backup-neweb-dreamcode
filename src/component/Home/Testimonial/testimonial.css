@@ -1,0 +1,101 @@
+.erp_testimonial_area {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .erp_testimonial_area .seo_title h1{
+    color : #68758D;
+    font-size: 48px;
+    margin-bottom: 50px;
+  }
+  
+  .erp_testimonial_area .slider_nav .prev, .erp_testimonial_area .slider_nav .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 45px;
+    color: #fff;
+    transition: all 0.2s linear;
+    cursor: pointer;
+  }
+  
+  .erp_testimonial_area .row {
+    position: relative;
+  }
+  
+  .erp_testimonial_area .row {
+    margin-right: -25px;
+    margin-left: -25px;
+    display: block;
+  }
+  
+  
+  .erp_testimonial_item .content:before {
+    content: "";
+    width: 14px;
+    height: 24px;
+    background: #fff;
+    transform: rotate(45deg);
+    position: absolute;
+    bottom: -8px;
+    left: 150px;
+    
+  }
+  
+  .erp_testimonial_item .media::before {
+    content: "";
+    width: 130px;
+    height: 130px;
+    position: relative;
+    bottom: 20px;
+    border-radius: 50%;
+    background: url("../../../img/home/testimonial_img-1.png") no-repeat scroll center bottom;
+  }
+  
+  .erp_testimonial_item .media.test2::before {
+    background: url("../../../img/home/testimonial_img-2.png") no-repeat scroll center bottom;
+  }
+  .erp_testimonial_item .media.test3::before {
+    background: url("../../../img/home/testimonial_img-3.png") no-repeat scroll center bottom;
+  }
+  
+  .erp_testimonial_item {
+    padding: 10px 25px;
+  }
+  
+  .erp_testimonial_item .content {
+    background-color: white;
+    box-shadow: 1px 1px 12px 5px rgb(1 1 0 / 10%);
+    padding: 40px;
+    position: relative;
+    border-radius: 50px;
+  }
+  
+  .erp_testimonial_item .content p {
+    font-weight : bold;
+    font-size : 16px;
+    line-height : 20pt;
+    color : #677391;
+    letter-spacing: 0.7px;
+     
+  }
+  
+  .erp_testimonial_item .media .media-body{
+    align-items: center;
+    margin-top: 30px;
+    padding-left: 27px;
+  }
+  
+  .erp_testimonial_item .media .media-body h5 {
+    color : #DEAC14;
+    font-weight : bold;
+    font-size: 25px;
+  }
+  
+  .erp_testimonial_item .media .media-body p {
+    color : #EAC25E;
+    font-weight : bold;
+    font-size: 15px;
+  }
+  
+  

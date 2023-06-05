@@ -1,0 +1,281 @@
+.great--place {
+    position: relative;
+    z-index: 2;
+
+    padding-bottom: 0;
+    padding: 20px;
+}
+
+
+.great--content {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.great--content h1 {
+    z-index: 1;
+    display: inline-block;
+
+    line-height: 1.1em;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-top: 0;
+    font-family: neue-haas-grotesk-display,sans-serif;
+    font-weight: 500;
+    letter-spacing: .01em;
+}
+
+.line-break span{
+    white-space: pre-line;  
+    vertical-align: bottom;
+}
+
+.great--content h1 span {
+    position: relative;
+    left: 100px;
+    display: inline-block;
+}
+
+
+.grid--img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    width: 100%;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    grid-column-gap: 40px;
+    grid-row-gap: 0px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: auto;
+    grid-template-rows: auto;
+    display: -ms-grid;
+    display: grid;
+    grid-auto-columns: 1fr;
+    -ms-grid-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+}
+
+
+.grid--column {
+    -ms-grid-column-span: 1;
+    grid-column-end: 4;
+    grid-column-start: 3;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    grid-row-start: 1;
+}
+
+.grid--img-column {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.great--img {
+    position: relative;
+    display: block;
+    height: 100%;
+    max-width: none;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.great--img.mod--1 {
+    max-height: 520px;
+    max-width: 112px;
+    margin-left: -152px;
+    background-position: 100% 100%;
+    background-size: cover;
+    background-color: #29A9E0;
+    background-repeat: no-repeat;
+}
+
+.great--img.mod--2 {
+    max-height: 632px;
+    max-width: 336px;
+    margin-left: 40px;
+    background: url("../../img/great-place/portada.png") no-repeat scroll center bottom;
+    background-position: 0 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.great--place-area {
+    position: relative;
+    z-index: 2;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 76px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.great--place-logo {
+    position: relative;
+    z-index: 2;
+    overflow: hidden;
+
+}
+
+.great--img.mod--2:hover .img--hover {
+    height: 100%;
+}
+
+.img--hover {
+    position: absolute;
+    opacity: 0.5;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    z-index: 1;
+    width: 100%;
+    height: 0%;
+    background-color: #29A9E0;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.mod--lines {
+    left: 500px;
+    top: 0;
+    bottom: auto;
+}
+
+.line {
+    position: absolute;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    background: url("../../img/iconos/icono-dark.png") no-repeat scroll center bottom;
+    background-position: 50% 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.lines--line {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    width: 1px;
+    height: 1px;
+    background-color: #101010;
+}
+
+.lines--line.mod--line-1 {
+    left: 20px;
+    top: 20px;
+    right: auto;
+    bottom: auto;
+    height: 200px;
+}
+
+.content--intro {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+
+/*==========ANIMATION===========*/
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .great--content h1 {
+        font-size: 30px;
+        margin-bottom: -10px;
+    }
+    .great--content {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .great--content h1 span {
+        left: 50px;
+    }
+    .grid--column {
+        -ms-grid-column-span: 1;
+        grid-column-end: 4;
+        grid-column-start: 1;
+        -ms-grid-row-span: 1;
+        grid-row-end: 2;
+        grid-row-start: 1;
+    }
+    .grid--img {
+        position: relative;
+        margin-bottom: 50px;
+    }
+    .grid--img-column {
+        height: auto;
+        min-height: 360px;
+        padding-right: 0;
+    }
+    .great--img.mod--1 {
+        max-height: 250px;
+        max-width: 64px;
+        margin-left: 0;
+    }
+    .great--img.mod--2 {
+        max-width: 200px;
+        margin-left: 24px;
+    }
+    .great--place-area { padding-left: 10px; }
+    .mod--lines { left: 0px; }
+    .content--intro { padding-left: 20px;}
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

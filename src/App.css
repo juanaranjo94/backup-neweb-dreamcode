@@ -1,43 +1,147 @@
-.App {
-  text-align: center;
+/*=== fonts ====*/
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@700;900&family=Karla:wght@800&display=swap');
+
+
+/*=== TEXT ===*/
+
+h1, h2, h3, h4, h5, h6, a, p {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;  
+}
+.f_p {
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+/*=========== TAMAÑO TEXTO ==============*/
+.f_size_90 { font-size: 90px;}
+.f_size_80 { font-size: 80px;}
+.f_size_70 { font-size: 70px;}
+.f_size_60 { font-size: 60px;}
+.f_size_50 { font-size: 50px;}
+.f_size_40 { font-size: 40px;}
+.f_size_30 { font-size: 30px;}
+.f_size_25 { font-size: 25px;}
+.f_size_20 { font-size: 20px;}
+.f_size_18 { font-size: 18px;}
+.f_size_15 { font-size: 15px;}
+.f_size_10 { font-size: 10px;}
+.f_size_0 { font-size: 0px !important;}
+
+/*=========== font-weight ==============*/
+.f_400 {font-weight: 400 !important;}
+.f_500 {font-weight: 500 !important;}
+.f_600 {font-weight: 600 !important;}
+.f_700 {font-weight: 700 !important;}
+
+/*=========== ANCHO DE TEXTO ==============*/
+.l_height45 {line-height: 45px;}
+.l_height10 { line-height: 10px; }
+.l_height09 { line-height: 0.9; }
+.l_height_p { line-height: 28px; }
+.l_height { line-height: 1.9em; }
+
+/*=========== COLOR TEXT ==============*/
+.t_color {color: #246DFB !important;}
+.p_color {color: #666c82 !important;}
+.w_color {color: #FFFFFF !important;}
+.d_color {color: #4D4D4D !important;}
+.m_color {color: #1CD4D2 !important;}
+.b_color {color: #000000 !important;}
+
+/*---- Background-Color -----*/
+.bg-darkblue { background-color: #001529; }
+
+/*---- PADDING -----*/
+.mt_20 { margin-top: 20px; }
+.mt_40 { margin-top: 40px; }
+.mt_60 { margin-top: 60px; }
+.mt_80 { margin-top: 80px; }
+.mt_100 { margin-top: 100px; }
+
+.mb_20 { margin-bottom: 20px; }
+.mb_30 { margin-bottom: 30px; }
+.mb_40 { margin-bottom: 40px; }
+.mb_50 { margin-bottom: 50px; }
+.mb_60 { margin-bottom: 60px; }
+.mb_70 { margin-bottom: 70px; }
+.mb_90 { margin-bottom: 90px; }
+
+
+.pl_20 { padding-left: 20px; }
+.pl_30 { padding-left: 30px; }
+.pl_40 { padding-left: 40px; }
+.pl_50 { padding-left: 50px; }
+.pl_70 { padding-left: 70px; }
+.pl_100 { padding-left: 100px; }
+.pl_120 { padding-left: 120px; }
+/**/
+.pr_120 { padding-right: 120px; }
+.pr_50 { padding-right: 50px; }
+.pr_20 { padding-right: 20px; }
+.pr_0 { padding-right: 0px; }
+/**/
+.px_50 { padding-left: 50px !important; padding-right: 50px !important;}
+.py_20 { padding-top: 20px !important; padding-bottom: 20px !important;}
+.mx_20 { margin-left: 20px !important; margin-right: 20px !important;}
+.py_40 { padding-top: 40px !important; padding-bottom: 40px !important;}
+.py_50 { padding-top: 50px !important; padding-bottom: 50px !important;}
+.py_60 { padding-top: 60px !important; padding-bottom: 60px !important;}
+
+.w-40 { width: 40%;}
+.w-30 { width: 30%;}
+.vh-80 {height: 80vh;}
+/*==================== Position Absolute  ================================*/
+
+.left-0 { left: 0!important;}
+.right-0 { right: 0!important;}
+.top-0 { top: 0!important;}
+.bottom-0 { bottom: 0!important;}
+
+/*==================== Modal Form  ================================*/
+.sec_pad { padding: 80px 0 30px;}
+.sec_area { padding: 40px 15px;}
+
+.btn, .btn:focus, .btn:hover, a, a:focus, a:hover, button, button:focus, button:hover {
+  text-decoration: none !important;
+  outline: none;
+}
+/*====================================================*/
+/*--Para que el salto de linea funcione en json--*/
+.line-break {
+  white-space: pre-line;  
+  vertical-align: bottom;
+}
+/*==============  BLOG  =====================*/
+.blog_content h2 {
+  font-weight: 700;
+  color: #246dfb;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.blog_content h3 {
+  font-weight: 500;
+  color: #246dfb;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 80vh;
+.post_area .breadcrumb {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 2rem 0 0;
+  list-style: none;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  justify-content: flex-start;
 }
-
-.App-link {
-  color: #61dafb;
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+  .sm-w-75{width: 75%;}
+  .sm-vh-50 {height: 50vh;}
+  .sm-vh-80 {height: 80vh;}
+  .sm-vh-100 {height: 100vh;}
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.post-img {
-  height: 520px;
-  overflow: hidden;
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+  .ms-vh-50 {height: 50vh;}
+  .ms-vh-80 {height: 80vh;}
+  .ms-vh-100 {height: 100vh;}
 }

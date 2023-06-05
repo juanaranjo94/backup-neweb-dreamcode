@@ -1,0 +1,23 @@
+.imgClients {
+    width: 100%;
+    display: block;
+    text-align: center;
+    height: 100%;
+    padding: 30px;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+  }
+  .imgClients img {
+    width: 140px;
+  }
+
+
+  @media (max-width:1199px){
+    .imgClients {
+        padding: 20px 10px;
+    }
+    .imgClients img{
+        max-width: 100%;
+    }
+  }

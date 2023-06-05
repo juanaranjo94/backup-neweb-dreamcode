@@ -1,0 +1,26 @@
+.banner_careers {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: url("../../img/careers/banner-careers.jpg") no-repeat scroll center bottom;
+    background-size: cover;
+    padding: 180px 0 120px;
+  }
+
+.profile--banner {
+  padding: 30px 0;
+}
+
+.profile--banner h1::after {
+  content: "";
+  background: url("../../img/iconos/fondo-home2.png") no-repeat scroll center bottom;
+  display: inline-block;
+  width: 65px;
+  height: 65px;
+  background-size: cover;
+  z-index: 0;
+  right: 0;
+  top: 0;
+}

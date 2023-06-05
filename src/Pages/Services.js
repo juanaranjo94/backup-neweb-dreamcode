@@ -1,19 +1,21 @@
 import React from 'react'
-import { useTranslation } from 'react-i18next';
+import BannerServices from '../component/Services/BannerServices/BannerServ';
+import SliderService from '../component/Services/SliderServices/SliderServices';
+import Brochures from '../component/Services/Brochures/Brochures';
+import './../component/Services/services.css'
+import FormContact from '../component/Forms/FormContact/FormContact';
 
-
-function Home() {
-
-  const { t } = useTranslation();
+function Services() {
 
   return (
-    <div className="App">
-      <div className="App-header">
-        <h1>{t('homePage.title')}</h1>
-        <p>{t('homePage.text')}</p>
-      </div>
+    <div className='bg_serv animeServ' id='services'>
+        {/* <div id="ball"></div>   */}
+        <BannerServices />
+        <SliderService />
+        <Brochures />
+        <FormContact typeForm="dark py_50" />
     </div>
   )
 }
 
-export default Home;
+export default Services;

@@ -1,0 +1,182 @@
+/*==========STYLES===========*/
+.our_process_area .seo_title h1 {
+    color: #246DFB;
+    font-weight: 600;
+}
+
+.our_process_feedback {
+  padding: 60px 40px;
+  display: flex;
+  transition: all .3s linear;
+  border-radius: 40px;
+  height: 380px;
+  width: 380px;
+}
+
+.col_scrum {
+  background : linear-gradient(0deg, rgba(41, 115, 220, 1) 0%, rgba(0, 255, 255, 1) 100%);
+  background : -moz-linear-gradient(50% 100% 90deg,rgba(41, 115, 220, 1) 0%,rgba(0, 255, 255, 1) 100%);
+  background : -webkit-linear-gradient(90deg, rgba(41, 115, 220, 1) 0%, rgba(0, 255, 255, 1) 100%);
+  background : -o-linear-gradient(90deg, rgba(41, 115, 220, 1) 0%, rgba(0, 255, 255, 1) 100%);
+  background : -ms-linear-gradient(90deg, rgba(41, 115, 220, 1) 0%, rgba(0, 255, 255, 1) 100%);
+}
+
+.col_devops {
+    background : linear-gradient(210deg, rgba(41, 115, 220, 1) 0%, rgba(40, 118, 221, 1) 20.02%, rgba(37, 129, 223, 1) 36.76%, rgba(32, 146, 228, 1) 52.33%, rgba(25, 171, 234, 1) 67.19%, rgba(15, 202, 242, 1) 81.55%, rgba(4, 240, 251, 1) 95.34%, rgba(0, 255, 255, 1) 100%);
+    background : -moz-linear-gradient(80.32% -6.8% -120deg,rgba(41, 115, 220, 1) 0%,rgba(40, 118, 221, 1) 20.02%,rgba(37, 129, 223, 1) 36.76%,rgba(32, 146, 228, 1) 52.33%,rgba(25, 171, 234, 1) 67.19%,rgba(15, 202, 242, 1) 81.55%,rgba(4, 240, 251, 1) 95.34%,rgba(0, 255, 255, 1) 100%);
+    background : -webkit-linear-gradient(-120deg, rgba(41, 115, 220, 1) 0%, rgba(40, 118, 221, 1) 20.02%, rgba(37, 129, 223, 1) 36.76%, rgba(32, 146, 228, 1) 52.33%, rgba(25, 171, 234, 1) 67.19%, rgba(15, 202, 242, 1) 81.55%, rgba(4, 240, 251, 1) 95.34%, rgba(0, 255, 255, 1) 100%);
+}
+
+.col_devops .clients_feedback_item .feedback_body  {
+    text-align: left;
+}
+.col_scrum .clients_feedback_item .feedback_body  {
+    text-align: right;
+}
+
+.clients_feedback_item .feedback_body .f_name {
+    font-size: 40px;
+    color: #fff;
+    line-height: 1.1;
+    font-weight: 600;
+    letter-spacing: 0em;
+    margin-bottom: 20px;
+  }
+
+  .clients_feedback_item .feedback_body {
+    position: relative;
+    flex: 1;
+  }
+
+  .our_process_feedback.col_scrum:before {
+    content: "";
+    background : -moz-linear-gradient(50% -82.43% -90deg,rgba(244, 207, 87, 1) 0%,rgba(252, 115, 70, 1) 99.09%);
+    background : -webkit-linear-gradient(-90deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
+    background : -o-linear-gradient(-90deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
+    background : -ms-linear-gradient(-90deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
+    background : linear-gradient(180deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
+    position: absolute;
+    display: inline-block;
+    left: 0;
+    border-radius: 40px 28px 95%;
+    width: 310px;
+    height: 250px;
+    background-size: cover;
+    z-index: 0;
+    top: 0px;
+  }
+  
+  .our_process_feedback.col_devops:before {
+    content: "";
+    background : -moz-linear-gradient(50% -11.35% -90deg,rgba(173, 54, 251, 1) 0%,rgba(148, 38, 251, 1) 100%);
+    background : -webkit-linear-gradient(-90deg, rgba(173, 54, 251, 1) 0%, rgba(148, 38, 251, 1) 100%);
+    background : -o-linear-gradient(-90deg, rgba(173, 54, 251, 1) 0%, rgba(148, 38, 251, 1) 100%);
+    background : -ms-linear-gradient(-90deg, rgba(173, 54, 251, 1) 0%, rgba(148, 38, 251, 1) 100%);
+    background : linear-gradient(180deg, rgba(173, 54, 251, 1) 0%, rgba(148, 38, 251, 1) 100%);
+    position: absolute;
+    display: inline-block;
+    right: 0;
+    border-radius: 50% 40px 40px 80% / 40% 40px 40px 50%;
+    width: 270px;
+    height: 300px;
+    background-size: cover;
+    z-index: 0;
+    top: 0px;
+  }
+
+
+  .clients_feedback_item .feedback_body p {
+    line-height: 30px;
+    margin-bottom: 15px;
+  }
+
+  .col_devops .feedback_body .learn_btn {
+    color: #AD36FB;
+  }
+  
+  .col_scrum .feedback_body .learn_btn {
+    color: #F4CF57;
+  }
+
+.feedback_body .learn_btn {
+    font-size: 20px;
+    position: relative;
+    margin-top: 0px;
+  }
+  
+.feedback_body  .learn_btn:hover {
+    color: #fff;
+    }
+  
+.feedback_body .learn_btn:hover:before {
+    width: 100%;
+    right: auto;
+    left: 0;
+    background: #fff;
+}
+
+.feedback_body .learn_btn:before {
+    content: "";
+    width: 0;
+    height: 1px;
+    left: auto;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    position: absolute;
+    transition: width 0.2s linear;
+}
+
+/*==========ANIMATION===========*/
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media (max-width: 512px) { 
+    .our_process_feedback {
+        margin: 15px 0 !important;
+        padding: 0px!important;      
+    }
+    .col_devops .clients_feedback_item:before {
+      right: 15px;
+    }
+
+    .col_devops {
+        margin-top: 40px;
+    }
+
+    .col_scrum .clients_feedback_item:before {
+        left: 15px;
+    }
+    .our_process_area {
+      padding-top: 30px;
+    }
+
+    .clients_feedback_item {
+      padding: 40px 30px;;
+  }
+
+
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+  .our_process_feedback {
+    margin: 15px 0 !important;
+  }
+
+  .clients_feedback_item .feedback_body p {
+    line-height: 20px;
+  }
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+}
+
+
+
+
+
+
+  
+  
+  

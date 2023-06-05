@@ -1,17 +1,24 @@
 import React from 'react'
-import { useTranslation } from 'react-i18next';
+import BannerHome from "../component/Home/BannerHome/BannerHome";
+import ServicesHome from '../component/Home/ServicesHome/ServicesHome';
+import OurProcess from '../component/Home/OurProcessHome/OurProcess';
+import Testimonial from '../component/Home/Testimonial/Testimonial';
+import SliderBlogHome from '../component/Home/SliderBlogHome.js/SliderBlogHome';
+import OurClients from '../component/Home/OurClients/OurClients';
+import BannerGreatPlace from '../component/Home/BannerGreatPlace/BannerGreatPlace';
 
 
 function Home() {
 
-  const { t } = useTranslation();
-
   return (
-    <div className="App">
-      <div className="App-header">
-        <h1>{t('homePage.title')}</h1>
-        <p>{t('homePage.text')}</p>
-      </div>
+    <div id='home'>
+      <BannerHome />
+      <ServicesHome />
+      <OurProcess />
+      <BannerGreatPlace />
+      <Testimonial />
+      <SliderBlogHome />
+      <OurClients />
     </div>
   )
 }

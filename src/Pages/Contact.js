@@ -1,18 +1,20 @@
 import React from 'react'
-import { useTranslation } from 'react-i18next';
+import BannerContact from '../component/Contact/BannerContact/BannerContact';
+import OurOffices from '../component/Contact/OurOffice/OurOffices';
+import FormNewsletter from '../component/Forms/FormNewsletter/FormNewsletter';
+import FormContact from '../component/Forms/FormContact/FormContact';
 
-
-function Contact(props) {
-
-  const { t } = useTranslation();
+function Contact() {
 
   return (
-    <div className='App'>
-        <div className='App-header'>
-            <h1>{t('contact')}</h1>
-            <p>Lang:  {t('locale')}</p>
-        </div>
-    </div>
+    <>
+      <BannerContact  />
+      <OurOffices />
+      <FormNewsletter typeNewsletter="contact" />
+      <FormContact 
+        typeForm=" lightForm sec_pad"/>
+
+    </>
   )
 }
 

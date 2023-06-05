@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "color": "color1",
+        "job_name": "Líder de desarrollo Java",
+        "job_job_descriptiontion": "Queremos construir con un profesional que inspire y lidere a un equipo de desarrollo dentro de un entorno ágil y eficiente.",
+        "job_job_expertss": [
+            "Experiencia en el desarrollo de aplicaciones utilizando: Java, Spring Boot, REST Apis, Security (Encryption, OAUTH, JWT, Api Security), Hibernate",
+            "Habilidades de comunicación en inglés intermedio o superior (B1+)",
+            "Conocimiento del ciclo de desarrollo del software (SDLC) y sus fases: análisis de requerimientos, diseño de sistemas, desarrollo ágil, pruebas unitarias y de servicios, control de versión (git), integración continua, infraestructura en la nube, seguridad y monitoreo de aplicaciones Java en producción"
+        ],
+        "job_rol": "Participar activamente en la toma de decisiones técnicas dentro del equipo Scrum durante el diseño de soluciones de software de alta calidad, así mismo contribuirás en la definición de arquitecturas y dirigirás las actividades diarias de tu grupo de trabajo, ejerciendo un liderazgo sobre sus resultados, tiempos de ejecución y calidad, alcanzando así el mejor rendimiento. ",
+        "job_url": "lider-de-desarrollo-java"
+    },
+    {
+        "id": 2,
+        "color": "color2",
+        "job_name": "Ingeniero de automatización",
+        "job_description": "Queremos construir con un profesional apasionado por la planificación, diseño, implementación y ejecución de pruebas para el aseguramiento y control de la calidad de software.",
+        "job_experts": [
+            "Experiencia trabajando con: Selenium ,TestNG , JUnit, Gradle ,Cucumber, Gherkin, Extent reports, Git , Jira, Jenkins, BDD, SQL, Java, JavaScript, Test Rail (Documentación plan de pruebas), Localizadores (Xpaths, Ejes)",
+            "Patrones de diseño: Page Object Model , Page Factory",
+            "Skills plus: Jmeter, Appium , ISTQB, C ertificación QA ",
+            "Habilidades de comunicación en inglés intermedio o superior (B1+)",
+            "Consumo de microservicios (APIs)"
+        ],
+        "job_rol": "Garantizar la calidad de todos los productos desarrollados y entregados, a través de la estrecha colaboración entre los miembros del equipo de Scrum y producto, así mismo debes diseñar e implementar pruebas automatizadas completamente alineadas a los estándares internacionales de calidad en software.",
+        "job_url": "ingeniero-de-automatizacion"
+    },
+    {
+        "id": 3,
+        "color": "color3",
+        "job_name": "Desarrollador Java",
+        "job_description": "Queremos construir con un profesional apasionado por la creación de aplicaciones escalables y con un alto desempeño",
+        "job_experts": [
+            "Experiencia en el desarrollo de aplicaciones utilizando: Java, Spring Boot, Rest Api, Security (Encryption, OAUTH, JWT, Api Security), Hibernate.",
+            "Habilidades de comunicación en inglés intermedio (B1+)",
+            "Conocimientos en desarrollo y análisis orientado a objetos",
+            "Implementación de proyectos de desarrollo de software guiado por pruebas (TDD) y desarrollo de test unitarios.",
+            "Conocimiento básico del ciclo de desarrollo del software (SDLC) y sus fases: análisis de requerimientos, diseño de sistemas, desarrollo ágil, pruebas unitarias y de servicios, control de versión (git), integración continua, infraestructura en la nube, seguridad y monitoreo de aplicaciones Java en producción."
+        ],
+        "job_rol": "Crear soluciones especializadas de software acorde a los requerimientos del cliente, completamente alineado a estándares internacionales para la creación de software (un código limpio, óptimo, eficiente y disponible para pruebas), contribuyendo así a la mejora continua y agregando valor en cada una de las fases del ciclo de vida de desarrollo del software. Interactuar y colaborar con los equipos de prueba (funcionales y automatizadas) para garantizar la calidad de todos los productos desarrollados y entregados.",
+        "job_url": "desarrollador-java"
+    },
+    {
+        "id": 4,
+        "color": "color4",
+        "job_name": "Desarrollador Java Senior",
+        "job_description": "Queremos construir con un profesional apasionado por la creación de aplicaciones escalables y con un alto desempeño",
+        "job_experts": [
+            "Experiencia en el desarrollo de aplicaciones utilizando: ecosistema Java (Maven, Gradle, Junit), Kotlin, JavaFX (opcional) ",
+            "Conocimiento en subprocesamiento múltiple: una gran comprensión de Runnable y  Thread",
+            "Conocimiento sólido en base de datos y consultas SQL",
+            "Estructuras de datos y colecciones",
+            "JVM y gestión de memoria",
+            "Depuración",
+            "Habilidades de comunicación en inglés superiors (B2+)   ",
+            "Implementación de proyectos de desarrollo de software guiado por pruebas (TDD) y desarrollo de test unitarios",
+            "Conocimiento profundo del ciclo de desarrollo del software (SDLC) y sus fases: análisis de requerimientos, diseño de sistemas, desarrollo ágil, pruebas unitarias y de servicios, control de versión (git), integración continua, infraestructura en la nube, seguridad y monitoreo de aplicaciones Java en producción",
+            "Experiencia liderando revisiones y refactorización de código."
+        ],
+        "job_rol": "Participar activamente en la toma de decisiones técnicas dentro del equipo Scrum y en la creación de soluciones especializadas de software acorde a los requerimientos del cliente, completamente alineado a estándares internacionales para la creación de software (un código limpio, óptimo, eficiente y disponible para pruebas), agregando valor en cada una de las fases del ciclo de vida de desarrollo del software, así mismo debes interactuar y colaborar con los equipos de prueba (funcionales y automatizadas) para garantizar la calidad de todos los productos desarrollados y entregados.",
+        "job_url": "desarrollador-java-senior"
+    },
+    {
+        "id": 5,
+        "color": "color5",
+        "job_name": "Desarrollador Mobile React Native",
+        "job_description": "Queremos construir con un profesional apasionado por la creación de aplicaciones escalables y con un alto desempeño.",
+        "job_experts": [
+            "Aportando tu experiencia en desarrollo de aplicaciones utilizando React Native (mobile applications), Typescript  (NestJS + Apollo GraphQL stack), AWS (RDS, Route 53, Cloudfront)",
+            "Habilidades de comunicación en inglés intermedio o superior (B1+).",
+            "Deseable que tengas experiencia en: Prisma, React, Next.JS, Firebase Messaging"
+        ],
+        "job_rol": "Llevar a cabo la refactorización en pro de la mejora continua de la estructura interna del software, debes ser capaz de implementar una interacción eficaz entre los usuarios y un entorno web, a través de una conexión con las bases de datos, así mismo debes garantizar que la experiencia de usuario siempre sea de alto nivel. Debes participar en la toma de decisiones técnicas dentro del equipo Scrum y en la creación de soluciones especializadas de software acorde a los requerimientos del cliente, completamente alineado a estándares internacionales para la creación de software (un código limpio, óptimo, eficiente y disponible para pruebas).",
+        "job_url": "desarrollador-mobile"
+    },
+    {
+        "id": 6,
+        "color": "color6",
+        "job_name": "Ingeniero DevOps",
+        "job_description": "Queremos construir con un profesional apasionado por la reingeniería de procesos para administración ágil de los sistemas, la automatización y unificación de equipos.",
+        "job_experts": [
+            "Aportando tu experiencia en metodologías Agile",
+            "Aportando tu experiencia en desarrollo de aplicaciones utilizando: Python, Vault, Jenkins, Artifactory",
+            "Habilidades de comunicación en inglés intermedio o superior (B2+).",
+            "Aportando tu experiencia en: Docker, Groovy, Linux (Ubuntu), Java (deseable)"
+        ],
+        "job_rol": "Monitorear continuamente el ciclo de vida del desarrollo de software, así mismo debes saber cómo administrar la infraestructura TI que se necesita para implementar el código en entornos de Cloud Computing. Debes participar en la toma de decisiones técnicas dentro del equipo Scrum y en la creación de soluciones especializadas de software acorde a los requerimientos del cliente, completamente alineado a estándares internacionales para la creación de software (un código limpio, óptimo, eficiente y disponible para pruebas).",
+        "job_url": "ingeniero-devops"
+    }
+]

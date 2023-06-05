@@ -1,19 +1,24 @@
-import React from 'react'
-import { useTranslation } from 'react-i18next';
+import React from 'react';
+import BannerDreamcoders from '../component/Dreamcoders/Banner/BannerDreamcoders';
+import Talents from '../component/Dreamcoders/Talents/Talents';
+import SliderDreamcoders from '../component/Dreamcoders/Testimonios/SliderDreamcoders';
 
-
-function Home() {
-
-  const { t } = useTranslation();
+function Dreamcoders() {
 
   return (
-    <div className="App">
-      <div className="App-header">
-        <h1>{t('homePage.title')}</h1>
-        <p>{t('homePage.text')}</p>
-      </div>
+    <div className="dreamcoders bg-darkblue" id="Dreamcoders">
+      <div className="position-relative">
+        <div className="position-absolute top-0 start-0">
+            <img src={require ('../img/dreamcoders/fondo-bn-dreamcoders.png')}  alt="Fondo DreamCoders" height="1000"/>
+        </div>
+      </div>   
+      <BannerDreamcoders />
+      <Talents />
+      <SliderDreamcoders />
+
+
     </div>
   )
 }
 
-export default Home;
+export default Dreamcoders;

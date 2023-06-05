@@ -1,0 +1,5 @@
+.banner_blog {
+    background: url("../../img/blog/blog-banner.jpg") no-repeat scroll center bottom;
+    background-size: cover;
+    height: 600px;
+  }

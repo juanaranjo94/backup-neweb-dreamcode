@@ -1,7 +1,7 @@
 import React from 'react';
 import Markdown from "react-markdown"
-import postlistEn from './../post/posts.json';
-import postlistEs from './../post/postsEs.json';
+import postlistEn from './../assets/post/postsEn.json';
+import postlistEs from './../assets/post/postsEs.json';
 import { Redirect } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
@@ -9,18 +9,15 @@ import { useTranslation } from 'react-i18next';
 
     
     let validId = props.match.params.postId;
-    const { t } = useTranslation();
+    const { t , i18n} = useTranslation();
     const fetchedPost = {}
     let postExists = false
 
-    let lg = t('locale');
+    let lng = i18n.language;
     let postlist = null;
 
-    if (lg === 'en'){
-        postlist = postlistEn
-    } else {
-        postlist = postlistEs
-    } 
+    lng === 'en' ? postlist = postlistEn : postlist = postlistEs
+    
 
 
     postlist.forEach((post, i) => {
@@ -47,7 +44,7 @@ import { useTranslation } from 'react-i18next';
         return (
             <section className="post_area">
                 <div className="post-img">
-                    <img className="img-fluid" src={require(`../img/${fetchedPost.imglink}`)} alt={fetchedPost.title} title={fetchedPost.title}/>
+                    <img className="img-fluid" src={require(`../img/posts/${fetchedPost.imglink}`)} alt={fetchedPost.title} title={fetchedPost.title}/>
                 </div>
 
                 <div className="container">
@@ -65,7 +62,6 @@ import { useTranslation } from 'react-i18next';
                             </nav>
                             </div>
                             <div className="blog_single mb_50">
-                            
                                 <div className="blog_content">
                                     <h1 className="f_p f_size_40 f_600 t_color mt-3">{fetchedPost.title}</h1>
                                     <p>{fetchedPost.date} - Read {fetchedPost.read} </p>
@@ -73,11 +69,11 @@ import { useTranslation } from 'react-i18next';
                                     <div className="mt-4 f_p">  
                                         <Markdown children={fetchedPost.content}  skipHtml={false} />
                                     </div> 
-                                    <div className="post_tag d-flex">
+                                    {/* <div className="post_tag d-flex">
                                         <a href={`/category/${fetchedPost.category}`}>
                                             <p className='text-capitalize'>{fetchedPost.category}</p>
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>

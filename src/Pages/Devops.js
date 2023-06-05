@@ -9,8 +9,8 @@ function Devops() {
   return (
     <div className="App">
       <div className="App-header">
-        <h1>{t('homePage.title')}</h1>
-        <p>{t('homePage.text')}</p>
+        <h1>Devops</h1>
+        <p>text </p>
       </div>
     </div>
   )

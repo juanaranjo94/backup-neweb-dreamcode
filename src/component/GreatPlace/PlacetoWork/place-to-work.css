@@ -1,0 +1,61 @@
+.border-punteado {
+    border-top: 1px dashed #343a40;
+}
+
+/*---- hover ----*/
+
+.overlay {
+    position: absolute;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.one {background-color: #009045;}
+.two {background-color: #FF0000;}
+.three {background-color: #FAEC21;}
+.four {background-color: #00FFFF;}
+.five {background-color: #8600FF;}
+.six {background-color: #0074FF;}
+
+.item--img:hover .overlay {
+    height: 100%;
+}
+
+/*----- hover ----*/
+
+.reason--title, .item--img {
+    margin-top: 40px;
+}
+
+.reason--text {
+    margin: 40px 0 0 45px;
+}
+
+
+
+/*==========ANIMATION===========*/
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .item--img {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .reason--text {
+        margin: 0px;
+    }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

@@ -1,0 +1,29 @@
+.banner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .banner h1 {
+        font-size: 35px;
+        line-height: 1.1;
+    }
+    .banner p {
+        padding: 0;
+    }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

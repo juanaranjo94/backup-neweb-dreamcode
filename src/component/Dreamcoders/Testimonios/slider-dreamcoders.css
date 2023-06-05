@@ -1,0 +1,83 @@
+
+  .slider-dreamcoders .testimonialImg .swiper-slide {
+    background-size: cover;
+    background-position: center;
+    height: calc((100% - 30px) / 2) !important;
+    text-align: center;
+    font-size: 18px;
+  
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    filter: brightness(50%);
+    
+  }
+  
+  .testimonialImg .swiper-slide-thumb-active {
+    filter: brightness(100%) !important;
+  }
+  
+  .slider-dreamcoders .testimonialImg {
+    width: 100%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .slider-dreamcoders .testimonialFormat {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .slider-dreamcoders .testimonialImg img {
+    border-radius: 100%;
+    display: block;
+    object-fit: cover;
+  }
+  
+  .testimonial_author::before {
+    content: "";
+    position: absolute;
+    left: -70px;
+    top: 1px;
+    width: 100%;
+    height: 100%;
+    background: url("../../../img/dreamcoders/comillas.png");
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  
+  .testimonial_content h2 {
+    color: #E51E79;
+  }
+  
+  .testimonial_author {
+    padding-top: 0px;
+    margin-left: 70px;
+  }
+  
+  .testimonial_content p {
+    line-height: 40px;
+    letter-spacing: 1px;
+  }
+
+  .bg-img-absolute {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+  }
+  

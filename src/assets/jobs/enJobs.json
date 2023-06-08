@@ -2,52 +2,52 @@
     {
         "id": 1,
         "color": "color1",
-        "job_name": "Java Development Leader",
-        "job_description": "We want to build with a professional who inspires and leads a development team within an agile and efficient environment.",
-        "job_experts": [
+        "name": "Java Development Leader",
+        "description": "We want to build with a professional who inspires and leads a development team within an agile and efficient environment.",
+        "experts": [
             "Experience in developing applications using: Java, Spring Boot, REST Apis, Security (Encryption, OAUTH, JWT, Api Security), Hibernate",
             "Communication skills in English intermediate or higher (B1+)",
             "Knowledge of the software development cycle (SDLC) and its phases: requirements analysis, system design, agile development, unit and service testing, version control (git), continuous integration, cloud infrastructure, security and monitoring of Java applications in production"
         ],
-        "job_rol": "Actively participate in technical decision-making within the Scrum team during the design of high-quality software solutions, likewise you will contribute to the definition of architectures and direct the daily activities of your work group, exercising leadership over its results, execution times and quality, thus achieving the best performance.",
-        "job_url": "lider-de-desarrollo-java"
+        "rol": "Actively participate in technical decision-making within the Scrum team during the design of high-quality software solutions, likewise you will contribute to the definition of architectures and direct the daily activities of your work group, exercising leadership over its results, execution times and quality, thus achieving the best performance.",
+        "url": "lider-de-desarrollo-java"
     },
     {
         "id": 2,
         "color": "color2",
-        "job_name": "Automation Engineer",
-        "job_description": "We want to build with a professional who is passionate about planning, designing, implementing and executing tests for software quality assurance and control.",
-        "job_experts": [
+        "name": "Automation Engineer",
+        "description": "We want to build with a professional who is passionate about planning, designing, implementing and executing tests for software quality assurance and control.",
+        "experts": [
             "Experience working with: Selenium ,TestNG , JUnit, Gradle ,Cucumber, Gherkin, Extent reports, Git , Jira, Jenkins, BDD, SQL, Java, JavaScript, Test Rail (Test plan documentation), Locators (Xpaths, Axes)",
             "Design patterns: Page Object Model, Page Factory",
             "Skills plus: Jmeter, Appium, ISTQB, QA Certification",
             "Intermediate or higher English communication skills (B1+)",
             "Consumption of microservices (APIs)"
         ],
-        "job_rol": "Guarantee the quality of all products developed and delivered, through close collaboration between the members of the Scrum and product team, likewise you must design and implement automated tests completely aligned with international software quality standards.",
-        "job_url": "ingeniero-de-automatizacion"
+        "rol": "Guarantee the quality of all products developed and delivered, through close collaboration between the members of the Scrum and product team, likewise you must design and implement automated tests completely aligned with international software quality standards.",
+        "url": "ingeniero-de-automatizacion"
     },
     {
         "id": 3,
         "color": "color3",
-        "job_name": "Java Developer",
-        "job_description": "We want to build with a professional passionate about creating scalable applications with high performance",
-        "job_experts": [
+        "name": "Java Developer",
+        "description": "We want to build with a professional passionate about creating scalable applications with high performance",
+        "experts": [
             "Experience in developing applications using: Java, Spring Boot, Rest Api, Security (Encryption, OAUTH, JWT, Api Security), Hibernate.",
             "Intermediate English communication skills (B1+)",
             "Knowledge in object-oriented development and analysis",
             "Implementation of test-driven software development projects (TDD) and unit test development.",
             "Basic knowledge of the software development cycle (SDLC) and its phases: requirements analysis, system design, agile development, unit and service testing, version control (git), continuous integration, cloud infrastructure, security and Monitoring of Java applications in production."
         ],
-        "job_rol": "Create specialized software solutions according to customer requirements, fully aligned with international standards for software creation (clean, optimal, efficient code available for testing), thus contributing to continuous improvement and adding value in each of the phases of the software development life cycle. Interact and collaborate with test teams (functional and automated) to ensure the quality of all products developed and delivered.",
-        "job_url": "desarrollador-java"
+        "rol": "Create specialized software solutions according to customer requirements, fully aligned with international standards for software creation (clean, optimal, efficient code available for testing), thus contributing to continuous improvement and adding value in each of the phases of the software development life cycle. Interact and collaborate with test teams (functional and automated) to ensure the quality of all products developed and delivered.",
+        "url": "desarrollador-java"
     },
     {
         "id": 4,
         "color": "color4",
-        "job_name": "Senior Java Developer",
-        "job_description": "We want to build with a professional passionate about creating scalable applications with high performance",
-        "job_experts": [
+        "name": "Senior Java Developer",
+        "description": "We want to build with a professional passionate about creating scalable applications with high performance",
+        "experts": [
             "Experience in developing applications using: Java ecosystem (Maven, Gradle, Junit), Kotlin, JavaFX (optional)",
             "Knowledge in multithreading: a great understanding of Runnable and Thread",
             "Solid knowledge in database and SQL queries",
@@ -59,34 +59,34 @@
             "Deep knowledge of the software development cycle (SDLC) and its phases: requirements analysis, system design, agile development, unit and service testing, version control (git), continuous integration, cloud infrastructure, security and Java application monitoring in production",
             "Experience leading code reviews and refactoring."
         ],
-        "job_rol": "Actively participate in technical decision-making within the Scrum team and in the creation of specialized software solutions according to customer requirements, fully aligned with international standards for software creation (a clean, optimal, efficient code). and available for testing), adding value in each of the phases of the software development life cycle, likewise you must interact and collaborate with the test teams (functional and automated) to guarantee the quality of all the products developed and delivered .",
-        "job_url": "desarrollador-java-senior"
+        "rol": "Actively participate in technical decision-making within the Scrum team and in the creation of specialized software solutions according to customer requirements, fully aligned with international standards for software creation (a clean, optimal, efficient code). and available for testing), adding value in each of the phases of the software development life cycle, likewise you must interact and collaborate with the test teams (functional and automated) to guarantee the quality of all the products developed and delivered .",
+        "url": "desarrollador-java-senior"
     },
     {
         "id": 5,
         "color": "color5",
-        "job_name": "Mobile Developer React Native",
-        "job_description": "We want to build with a professional passionate about creating scalable applications with high performance.",
-        "job_experts": [
+        "name": "Mobile Developer React Native",
+        "description": "We want to build with a professional passionate about creating scalable applications with high performance.",
+        "experts": [
             "Contributing your experience in application development using React Native (mobile applications), Typescript (NestJS + Apollo GraphQL stack), AWS (RDS, Route 53, Cloudfront)",
             "Communication skills in English intermediate or higher (B1+)",
             "Desirable that you have experience in: Prisma, React, Next.JS, Firebase Messaging"
         ],
-        "job_rol": "Carry out the refactoring in favor of the continuous improvement of the internal structure of the software, you must be able to implement an effective interaction between users and a web environment, through a connection with the databases, you must also guarantee that the user experience is always of a high level. You must participate in the technical decision-making within the Scrum team and in the creation of specialized software solutions according to the client's requirements, fully aligned with international standards for the creation of software (a clean, optimal, efficient code that is available for testing).",
-        "job_url": "desarrollador-mobile"
+        "rol": "Carry out the refactoring in favor of the continuous improvement of the internal structure of the software, you must be able to implement an effective interaction between users and a web environment, through a connection with the databases, you must also guarantee that the user experience is always of a high level. You must participate in the technical decision-making within the Scrum team and in the creation of specialized software solutions according to the client's requirements, fully aligned with international standards for the creation of software (a clean, optimal, efficient code that is available for testing).",
+        "url": "desarrollador-mobile"
     },
     {
         "id": 6,
         "color": "color6",
-        "job_name": "DevOps Engineer",
-        "job_description": "We want to build with a professional who is passionate about process reengineering for agile systems administration, automation, and team unification.",
-        "job_experts": [
+        "name": "DevOps Engineer",
+        "description": "We want to build with a professional who is passionate about process reengineering for agile systems administration, automation, and team unification.",
+        "experts": [
             "Contributing your experience in Agile methodologies",
             "Contributing your experience in application development using: Python, Vault, Jenkins, Artifactory",
             "Intermediate or higher English communication skills (B2+)",
             "By contributing your experience in: Docker, Groovy, Linux (Ubuntu), Java (plus)"
         ],
-        "job_rol": "Continuously monitor the software development life cycle, likewise you must know how to manage the IT infrastructure that is needed to implement the code in Cloud Computing environments. You must participate in technical decision-making within the Scrum team and in the creation of specialized software solutions according to customer requirements, fully aligned with international standards for software creation (clean, optimal, efficient code and available for testing). ",
-        "job_url": "ingeniero-devops"
+        "rol": "Continuously monitor the software development life cycle, likewise you must know how to manage the IT infrastructure that is needed to implement the code in Cloud Computing environments. You must participate in technical decision-making within the Scrum team and in the creation of specialized software solutions according to customer requirements, fully aligned with international standards for software creation (clean, optimal, efficient code and available for testing). ",
+        "url": "ingeniero-devops"
     }
 ]

@@ -10,6 +10,52 @@
     "contact": "Contact",
     "careers": "Careers"
   },
+  "footer": {
+    "email": "Email",
+    "phone": "Phone",
+    "privacy_policy": "Privacy Policy",
+    "address": "Centro de Negocios Jardin Central, Oficina 1202",
+    "widgets": [
+      {
+        "name": "About Us",
+        "items": [
+          {
+            "url": "/services",
+            "text": "Services"
+          },
+          {
+            "url": "/about#story",
+            "text": "History"
+          },
+          {
+            "url": "/about#ourValues",
+            "text": "Values"
+          },
+          {
+            "url": "/about#expertise",
+            "text": "Expertise"
+          }
+        ]
+      },
+      {
+        "name": "Careers",
+        "items": [
+          {
+            "url": "/careers#benefits",
+            "text": "Why DreamCode?"
+          },
+          {
+            "url": "/careers",
+            "text": "Job opportunities"
+          },
+          {
+            "url": "/dreamcoders",
+            "text": "DreamCoders"
+          }
+        ]
+      }
+    ]
+  },
   "---Home Page---": "----Home Page ----",
   "titleBannerHome": "Dream to <1>Transform</1> the future",
   "service_home": {

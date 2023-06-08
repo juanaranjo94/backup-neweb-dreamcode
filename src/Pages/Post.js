@@ -3,13 +3,14 @@ import Markdown from "react-markdown"
 import postlistEn from './../assets/post/postsEn.json';
 import postlistEs from './../assets/post/postsEs.json';
 import { Redirect } from 'react-router-dom';
+import {  NavLink } from 'react-router-i18n';
 import { useTranslation } from 'react-i18next';
 
   function PostCopy(props) {
 
     
     let validId = props.match.params.postId;
-    const { t , i18n} = useTranslation();
+    const { i18n} = useTranslation();
     const fetchedPost = {}
     let postExists = false
 
@@ -52,25 +53,26 @@ import { useTranslation } from 'react-i18next';
                         <div className="col-lg-2 col-sm-12"></div>
                         <div className="col-lg-8 blog_sidebar_left">
                             <div>
-                            <nav aria-label="breadcrumb">
-                                <ol className="breadcrumb">
-                                    <li className="f_p f_size_15 breadcrumb-item"><a href="/blog">Dreamblog</a></li>
-                                    <li className="f_p f_size_15 breadcrumb-item"><a href="/category">Category</a></li>
-                                    <li className="f_p f_size_15 breadcrumb-item text-capitalize"><a href={"/category/"+ fetchedPost.category}>{fetchedPost.category}</a></li>
-                                    <li className="f_p f_size_15 breadcrumb-item active" aria-current="page">{fetchedPost.title}</li>
-                                </ol>
-                            </nav>
+                                <nav aria-label="breadcrumb">
+                                    <ol className="breadcrumb">
+                                        <li className="f_p f_size_15 breadcrumb-item"><NavLink to={`/blog`}>Dreamblog</NavLink></li>
+                                        <li className="f_p f_size_15 breadcrumb-item active" aria-current="page">{fetchedPost.title}</li>
+                                    </ol>
+                                </nav>
                             </div>
                             <div className="blog_single mb_50">
                                 <div className="blog_content">
                                     <h1 className="f_p f_size_40 f_600 t_color mt-3">{fetchedPost.title}</h1>
-                                    <p>{fetchedPost.date} - Read {fetchedPost.read} </p>
-                                    
+                                    <div className="entry_post_info mb-2 text-capitalize">
+                                        <code>{fetchedPost.date}</code>
+                                        <code>{fetchedPost.read}</code>
+                                        <code>{fetchedPost.category}</code>                                                        
+                                    </div>
                                     <div className="mt-4 f_p">  
                                         <Markdown children={fetchedPost.content}  skipHtml={false} />
                                     </div> 
                                     {/* <div className="post_tag d-flex">
-                                        <a href={`/category/${fetchedPost.category}`}>
+                                        <NavLink to={`/category/${fetchedPost.category}`}>
                                             <p className='text-capitalize'>{fetchedPost.category}</p>
                                         </a>
                                     </div> */}

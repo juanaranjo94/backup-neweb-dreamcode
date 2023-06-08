@@ -6,7 +6,7 @@ import "./bannerHome.css"
 function BannerHome (){
 
         return(
-            <section className="home_banner" id="BannerHome">
+            <section className="home--banner min-vh-100 d-flex align-items-center" id="BannerHome">
                 <div className="container">                                     
                     <div className="row align-items-start">
                         <div className="col-lg-5 text-left w_color ">
@@ -18,7 +18,7 @@ function BannerHome (){
                         </div>
                         <div className="col-lg-7" >
                             <div className="app_img" >
-                                <div className='home_bubble'>
+                                <div className='home--bubble'>
                                     <div className='bubble b_one'></div>
                                     <div className='bubble b_two'></div>
                                     <div className='bubble b_tres'></div>

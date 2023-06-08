@@ -1,8 +1,8 @@
-.careers--form {
+.profile--form {
     overflow: hidden;
 }
 
-.careers--form .inputfile {
+.profile--form .inputfile {
     cursor: pointer;
     opacity: 0;
     overflow: auto;
@@ -24,25 +24,25 @@
     
 }
 
-.careers--form .form-control, .careers--form select {
+.profile--form .form-control, .profile--form select {
     background-color: transparent;
     border: 1px solid #fff!important;
     color: #fff;
     font-weight: 800;
 }
-.careers--form .form-control.is-invalid, .careers--form .was-validated .form-control:invalid {
+.profile--form .form-control.is-invalid, .profile--form .was-validated .form-control:invalid {
     border-color: #ced4da!important;
     background-image: none!important;
 }
-.careers--form .form-control.is-invalid, .careers--form .was-validated .form-control:invalid {
+.profile--form .form-control.is-invalid, .profile--form .was-validated .form-control:invalid {
     border-color: #fff!important;
 }
 
-.careers--form form .form-control {
+.profile--form form .form-control {
     -webkit-text-fill-color: white !important;
 }
 
-.careers--form form button {
+.profile--form form button {
     font-size: 17px;
     border: 1.5px solid #fff;
     --tooltip-width: 100%;
@@ -60,7 +60,7 @@
 /*==========RESPONSIVE===========*/
 /*Mobil*/
 @media screen and (max-width:512px){
-    .careers--form h2 {
+    .profile--form h2 {
         font-size: 50px;
     }
     .profile--expert iframe {
@@ -70,7 +70,7 @@
 }
 /*Tablet*/
 @media (min-width: 513px) and (max-width:812px){
-    .careers--form h2 {
+    .profile--form h2 {
         font-size: 50px;
     }
     .profile--expert iframe {

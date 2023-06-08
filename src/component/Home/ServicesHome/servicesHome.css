@@ -1,6 +1,6 @@
 /*==========STYLES===========*/
 
-  .homeServices .swiper {
+  .home--services .swiper {
     width: 100%;
     height: 100%;
   }
@@ -78,7 +78,7 @@
     .ServItem .w-50 {
       width: 75%!important;
     }
-    .homeServices .swiper-slide {
+    .home--services .swiper-slide {
       height: 85%;
     }
 

@@ -28,7 +28,7 @@
         margin-right: 0;
         padding-left: 0;
     }
-    .our_process_feedback.feedback_two .clients_feedback_item .feedback_body {
+    .our--process-feedback.feedback_two .clients--feedback-item .feedback_body {
         margin-right: -138px;
         padding-left: 25px;
     }
@@ -116,20 +116,20 @@
     .our_history:before{
         left: 0;
     }
-    .f_widget.pl_70,.f_widget.pl_40{
+    .footer--widget.pl_70,.footer--widget.pl_40{
         padding-left: 0;
     }
     .our_history_content {
         padding-top: 60px;
     }
-    .our_process_feedback{
+    .our--process-feedback{
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .clients_feedback_item .feedback_body{
+    .clients--feedback-item .feedback_body{
         padding: 0px 30px 0px 70px;
     }
-    .our_process_feedback.feedback_two .clients_feedback_item .feedback_body{
+    .our--process-feedback.feedback_two .clients--feedback-item .feedback_body{
         margin-right: 0;
         padding-left: 30px;
     }
@@ -211,7 +211,7 @@
     .footer_top .row {
         text-align: center;
     }
-    .footer_top .f_widget{
+    .footer_top .footer--widget{
         padding-left: 0px;
         margin-bottom: 40px;
     }
@@ -225,7 +225,7 @@
     .action_img{
         margin-top: 0;
     }
-    .footer_area_four .footer_top{
+    .footer--area .footer_top{
         padding-bottom: 20px;
     }
     .ex_team_item img {
@@ -377,13 +377,8 @@
     .policy p {
         font-size: 14px;
     }
-    .footer_bottom p{
-        text-align: center;
-        margin-bottom: 12px !important;
-    }
-    .footer_bottom .f_menu{
-        text-align: center !important;
-    }
+
+
     .seo_banner_content p{
         padding: 0px;
     }
@@ -428,7 +423,7 @@
     .scrum_artifacts_area .tab-content .tab_img{
         margin-top: 20px;
     }
-    .f_widget .mb_40{
+    .footer--widget .mb_40{
         margin-bottom: 16px;
     }
     .company_widget .mt_30{
@@ -459,15 +454,15 @@
         margin-left: -10px;
         margin-right: -10px;
     }
-    .clients_feedback_item{
+    .clients--feedback-item{
         display: block;
         padding: 40px 30px;
     }
-    .clients_feedback_item .feedback_body{
+    .clients--feedback-item .feedback_body{
         padding:0px;
         margin: 0px;
     }
-    .our_process_feedback.feedback_two .clients_feedback_item .feedback_body{
+    .our--process-feedback.feedback_two .clients--feedback-item .feedback_body{
         padding-left: 0;
     }
 }
@@ -483,10 +478,10 @@
     .company_widget .mt_40{
         margin-top: 25px;
     }
-    .f_widget h3.mb_30{
+    .footer--widget h3.mb_30{
         margin-bottom: 15px;
     }
-    .f_widget .widget-wrap{
+    .footer--widget .widget-wrap{
         margin-top: 20px;
     }
     .seo_title p br{
@@ -498,9 +493,7 @@
 
 /*  new css*/
   
-    .pos_footer_bottom img{
-        max-width: 40%;
-    }
+
     .devops_part_area .d-flex{
         display: block !important;
     }
@@ -558,7 +551,7 @@
         margin-bottom: 40px;
     }
 
-    .our_process_feedback img{
+    .our--process-feedback img{
         max-width: 100%;
         display: none;
     }
@@ -591,7 +584,7 @@
         padding-left: 15px;
         padding-right: 15px;
     }
-    .clients_feedback_item {
+    .clients--feedback-item {
         padding-left: 30px;
         padding-right: 30px;
     }

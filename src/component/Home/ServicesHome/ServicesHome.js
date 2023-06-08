@@ -12,7 +12,7 @@ function  ServicesHome() {
 
     return(
         
-        <section className="homeServices sec_pad bg-light" id='home-services'>
+        <section className="home--services sec_pad bg-light" id='home-services'>
             <div className="container">
                 <div className="row">
                     <div className="col-lg-5 d-flex align-items-center">
@@ -39,10 +39,10 @@ function  ServicesHome() {
                             modules={[Autoplay, Navigation]}
                             className="swiper-services-home"
                           >
-                              {  services.map((item) => { 
+                              {  services.map((item, i) => { 
                                 return(
-                                    <SwiperSlide className="ServItem ">
-                                        <div className='w-50 ml-4'>
+                                    <SwiperSlide className="ServItem" key={i}>
+                                        <div className='w-50 ml-4' >
                                             <h5 className='text-center f_600 mb-3 mx-4'>{item.servTitle}</h5>
                                         </div>                                                  
                                         <div className='mx-4'>

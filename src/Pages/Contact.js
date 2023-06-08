@@ -13,7 +13,6 @@ function Contact() {
       <FormNewsletter typeNewsletter="contact" />
       <FormContact 
         typeForm=" lightForm sec_pad"/>
-
     </>
   )
 }

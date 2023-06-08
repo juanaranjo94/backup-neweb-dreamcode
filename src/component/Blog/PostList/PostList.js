@@ -8,7 +8,7 @@ import { useTranslation } from 'react-i18next';
 
 function PostList() {
 
-    const { t, i18n } = useTranslation();
+    const { i18n } = useTranslation();
     let lng = i18n.language;
     let postList = null;
 
@@ -28,7 +28,7 @@ function PostList() {
             {
                 postList.map((post, i) => {
                     return(
-                        <div className='col-lg-6 col-sm-12 col-md-6'>
+                        <div className='col-lg-6 col-sm-12 col-md-6' key={i}>
                             <div className="">
                                 <img className="img-fluid" src={require(`../../../img/posts/${post.imglink}`)} alt={post.title} title={post.title}/>
                             </div>
@@ -37,9 +37,9 @@ function PostList() {
                                     <Link to={`/post/${post.url}`}>{post.title}</Link>
                                 </h2>
                                 <div className="entry_post_info mb-2 text-capitalize">
-                                    <a href={`/${post.url}`}>{post.date}</a>
-                                    <a href={`/${post.url}`}>{post.read}</a>                                                        
-                                    {/* <a href={`/category/${post.category}`}>{post.category}</a> */}
+                                    <code>{post.date}</code>
+                                    <code>{post.read}</code>
+                                    <code>{post.category}</code>                                                        
                                 </div>
                                 <Markdown children={excerptList[i]} skipHtml={false} />
                                 {/* <div className="post_tag d-flex">

@@ -12,7 +12,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/iconos/themify-icon/themify-icons.css";
 import "./assets/styles/animate.css";
 import "swiper/css";
-import "swiper/css/bundle"
+import "swiper/css/bundle";
+import "./assets/font-awesome/css/all.css";
 //import "./assets/styles/responsive.css";
 //import "swiper/swiper-bundle.css";
 

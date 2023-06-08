@@ -6,11 +6,11 @@ import "./ourProcess.css"
 
 function OurProcess () {
 
-        const { t, i18n} = useTranslation();
+        const { t } = useTranslation();
         
         return(
         
-            <section className="our_process_area sec_pad" id="process">
+            <section className="our--process-area sec_pad" id="process">
                 <div className='container'>
                     <ParallaxTitle 
                         classDiv="text-center"
@@ -23,29 +23,25 @@ function OurProcess () {
                 <div className="container ">
                     <div className="row ">
                         <div className="col-lg-6 col-md-6 d-flex justify-content-center " >
-                            <div className="our_process_feedback position-relative col_scrum"> 
-                                <a className="w-100" href="/scrum">
-                                    <div className="clients_feedback_item">
-                                            <div className="feedback_body">
-                                            <h3 className="f_name text-left">Agile Scrum</h3>
-                                                <p className="text-left f_size_15 w_color f_700">{t('process_home.scrumDescription')}</p>
-                                                <NavLink to={'/scrum'} exact className="learn_btn mt-4 "><strong>{t('process_home.read_more')}</strong></NavLink>
-                                            </div>
-                                    </div>
-                                </a>                            
+                            <div className="our--process-feedback position-relative col_scrum"> 
+                                <div className="clients--feedback-item">
+                                        <div className="feedback_body">
+                                        <h3 className="f_name text-left">Agile Scrum</h3>
+                                            <p className="text-left f_size_15 w_color f_700">{t('process_home.scrumDescription')}</p>
+                                            <NavLink to={'/scrum'} exact className="learn_btn mt-4 "><strong>{t('process_home.read_more')}</strong></NavLink>
+                                        </div>
+                                </div>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-6 d-flex justify-content-center " >
-                            <div className="our_process_feedback position-relative col_devops">
-                                <a className="w-100" href="/devops">
-                                    <div className="clients_feedback_item">
-                                        <div className="feedback_body">
-                                            <h3 className="f_name text-right">DevOps</h3>
-                                            <p className="text-right f_size_15 w_color f_700">{t('process_home.devopsDescription')}</p>
-                                            <NavLink className="learn_btn mt-4 " exact to={'/devops'}><strong>{t('process_home.read_more')}</strong></NavLink>
-                                        </div>               
-                                    </div>                                  
-                                </a>
+                            <div className="our--process-feedback position-relative col_devops">
+                                <div className="clients--feedback-item">
+                                    <div className="feedback_body">
+                                        <h3 className="f_name text-right">DevOps</h3>
+                                        <p className="text-right f_size_15 w_color f_700">{t('process_home.devopsDescription')}</p>
+                                        <NavLink className="learn_btn mt-4 " exact to={'/devops'}><strong>{t('process_home.read_more')}</strong></NavLink>
+                                    </div>               
+                                </div>                                  
                             </div>
                         </div>
                     </div>

@@ -12,13 +12,15 @@ import Contact from "./Pages/Contact";
 import Blog from "./Pages/Blog";
 import Services from "./Pages/Services";
 import Category from "./Pages/Category";
-import CareersTest from "./Pages/CareersTest";
 import Post from "./Pages/Post";
-import Careers from "./Pages/Careers";
 import Dreamcoders from './Pages/Dreamcoders';
 import About from "./Pages/About";
 import Newsletter from './component/Forms/FormNewsletter/FormNewsletter';
 import GreatPlace from './Pages/GreatPlace';
+
+import Careers from './Pages/Careers'
+import ScrollToTop from './assets/ScrollToTop';
+import Flotantes from './component/Flotantes/Flotantes';
 
 function App () {
 
@@ -29,16 +31,17 @@ function App () {
     <BrowserRouter >
       <Route path={lang} component={Menu} />
         <Suspense fallback={<h2>Loading...</h2>}>
+          <ScrollToTop />
+          <Flotantes />
           <Switch>
             <Route exact path={lang} component={Home} />
+            <Route path={`${lang}/careers`} component={Careers} />
             <Route path={`${lang}/contacts`} component={Contact} />
             <Route path={`${lang}/about`} component={About} />
             <Route path={`${lang}/devops`} component={Devops} />
             <Route path={`${lang}/scrum`} component={Scrum} />
             <Route path={`${lang}/services`} component={Services} />
             <Route path={`${lang}/category`} component={Category} />
-            <Route path={`${lang}/test`} component={CareersTest} />
-            <Route path={`${lang}/careers`} component={Careers} />
             <Route path={`${lang}/great-place-to-work`} component={GreatPlace} />
             <Route path={`${lang}/dreamcoders`} component={Dreamcoders} />
             <Route path={`${lang}/404`} component={NotFound} />

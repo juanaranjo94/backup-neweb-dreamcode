@@ -20,7 +20,6 @@ function Jobsitems ({id, name, color, urlJob, url}) {
                 
                 <button type="button" className="f_p f_700 btn btn-light">
                     <Link className={`${color}`} to={`${url}/${urlJob}`}>{t('careers.apply')}</Link>
-                    {/* <a href={"/careers/"+ url} className={`${color}`} >{t('careers.apply')}</a> */}
                 </button>
             </div>
         </div>  

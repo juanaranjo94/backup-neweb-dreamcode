@@ -64,7 +64,7 @@ function FormCareers ({ btn_color }) {
                 </div>
                 <div className="col-lg-6">
                     <div className="form-group position-relative">
-                        <label className="w_color" for="validationServer02">{t("forms.form_label_file_name")}</label>
+                        <label className="w_color" htmlFor="validationServer02">{t("forms.form_label_file_name")}</label>
                         <input type="file" name="file" id="file" accept="application/pdf, .doc, .docx, .odf" className="inputfile" required/>
                             <label className={`btn-file btn_form ${btn_color} text-left f_p w-100 f_600`} >
                                 <span>{t("forms.form_input_file")}</span>
@@ -74,7 +74,7 @@ function FormCareers ({ btn_color }) {
                 </div>
                 <div className="col-lg-6">
                     <div className="form-group">
-                        <label className="w_color" for="validationServer02">{t("forms.form_select_fluently")}</label>
+                        <label className="w_color" htmlFor="validationServer02">{t("forms.form_select_fluently")}</label>
                         <select name="ingles" placeholder={t("forms.form_select_fluently")} className={` w_color custom-select mr-sm-2 f_p f_600`}>
                             <option name="Si" value="Si">{t("forms.form_option_yes")}</option>
                             <option name="No" value="No">No</option>

@@ -48,6 +48,7 @@ export default function SliderDreamcoders() {
                 testimonials.map((testimonial, index) => (
                   <SwiperSlide key={index}>
                     <TestimonialFormat
+                      
                       testimonial={testimonial.testimonial}
                       name={testimonial.name}
                       position={testimonial.position}

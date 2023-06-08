@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next';
 import Flip from 'react-reveal/Flip';
 import '../component/Blog/blog.css'
 import PostList from '../component/Blog/PostList/PostList';
+import ScrollToTop from '../assets/ScrollToTop';
 
 
 
@@ -23,6 +24,7 @@ function Blog() {
             </div>
         </section>
         <section className='post-list sec_area'>
+            
             <div className="container">
                 <div className='mb-5'>
                     <h2 className='t_color f_size_40 f_600'>Stay Future</h2>
@@ -30,6 +32,7 @@ function Blog() {
                 </div>
                 {/* <Breadcrumbs /> */}
                 <div className="row">
+                    <ScrollToTop />
                     <PostList />
                 </div>
             </div>

@@ -43,7 +43,7 @@ function Benefits() {
                 </div>
             </div>
         </section>
-        <section className="d-flex align-items-center py_60 banners--job" id="bannerFinalJob">
+        {/* <section className="d-flex align-items-center py_60 banners--job" id="bannerFinalJob">
             <div className="container">              
                 <div className="row">
                     <div className="col-lg-9">
@@ -51,12 +51,12 @@ function Benefits() {
                     </div>
                     <div className="col-lg-3">
                         <button type=" button" className="btn_banner f_p f_size_20 py-2 px_50 f_600 color2">
-                            <a href={"/careers"} >{t("components.read_more")}</a>
+                            <NavLink to={"/careers"} >{t("components.read_more")}</a>
                         </button>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> */}
     </>
   )
 }

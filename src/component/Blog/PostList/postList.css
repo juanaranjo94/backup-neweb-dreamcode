@@ -1,10 +1,10 @@
-.entry_post_info a+a:before {
+.entry_post_info code+code:before {
     content: "|";
     display: inline-block;
     margin: 0 7px;
 }
 
-.entry_post_info a {
+.entry_post_info code {
     color: #677294;
     padding-bottom: 5px;
 }

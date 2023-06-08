@@ -1,4 +1,4 @@
-.advantage--slider .swiper-pagination-bullet {
+.profile--slider .swiper-pagination-bullet {
     display: inline-block;
     width: 40px;
     height: 10px;
@@ -8,7 +8,7 @@
     cursor: pointer;
 }
 
-.advantage--slider .swiper-slide {
+.profile--slider .swiper-slide {
     padding-bottom: 50px;
     text-align: center;
     display: flex;

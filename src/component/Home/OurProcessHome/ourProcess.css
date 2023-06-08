@@ -1,10 +1,10 @@
 /*==========STYLES===========*/
-.our_process_area .seo_title h1 {
+.our--process-area .seo_title h1 {
     color: #246DFB;
     font-weight: 600;
 }
 
-.our_process_feedback {
+.our--process-feedback {
   padding: 60px 40px;
   display: flex;
   transition: all .3s linear;
@@ -27,14 +27,14 @@
     background : -webkit-linear-gradient(-120deg, rgba(41, 115, 220, 1) 0%, rgba(40, 118, 221, 1) 20.02%, rgba(37, 129, 223, 1) 36.76%, rgba(32, 146, 228, 1) 52.33%, rgba(25, 171, 234, 1) 67.19%, rgba(15, 202, 242, 1) 81.55%, rgba(4, 240, 251, 1) 95.34%, rgba(0, 255, 255, 1) 100%);
 }
 
-.col_devops .clients_feedback_item .feedback_body  {
+.col_devops .clients--feedback-item .feedback_body  {
     text-align: left;
 }
-.col_scrum .clients_feedback_item .feedback_body  {
+.col_scrum .clients--feedback-item .feedback_body  {
     text-align: right;
 }
 
-.clients_feedback_item .feedback_body .f_name {
+.clients--feedback-item .feedback_body .f_name {
     font-size: 40px;
     color: #fff;
     line-height: 1.1;
@@ -43,12 +43,12 @@
     margin-bottom: 20px;
   }
 
-  .clients_feedback_item .feedback_body {
+  .clients--feedback-item .feedback_body {
     position: relative;
     flex: 1;
   }
 
-  .our_process_feedback.col_scrum:before {
+  .our--process-feedback.col_scrum:before {
     content: "";
     background : -moz-linear-gradient(50% -82.43% -90deg,rgba(244, 207, 87, 1) 0%,rgba(252, 115, 70, 1) 99.09%);
     background : -webkit-linear-gradient(-90deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
@@ -66,7 +66,7 @@
     top: 0px;
   }
   
-  .our_process_feedback.col_devops:before {
+  .our--process-feedback.col_devops:before {
     content: "";
     background : -moz-linear-gradient(50% -11.35% -90deg,rgba(173, 54, 251, 1) 0%,rgba(148, 38, 251, 1) 100%);
     background : -webkit-linear-gradient(-90deg, rgba(173, 54, 251, 1) 0%, rgba(148, 38, 251, 1) 100%);
@@ -85,7 +85,7 @@
   }
 
 
-  .clients_feedback_item .feedback_body p {
+  .clients--feedback-item .feedback_body p {
     line-height: 30px;
     margin-bottom: 15px;
   }
@@ -132,11 +132,11 @@
 /*==========RESPONSIVE===========*/
 /*Mobil*/
 @media (max-width: 512px) { 
-    .our_process_feedback {
+    .our--process-feedback {
         margin: 15px 0 !important;
         padding: 0px!important;      
     }
-    .col_devops .clients_feedback_item:before {
+    .col_devops .clients--feedback-item:before {
       right: 15px;
     }
 
@@ -144,14 +144,14 @@
         margin-top: 40px;
     }
 
-    .col_scrum .clients_feedback_item:before {
+    .col_scrum .clients--feedback-item:before {
         left: 15px;
     }
-    .our_process_area {
+    .our--process-area {
       padding-top: 30px;
     }
 
-    .clients_feedback_item {
+    .clients--feedback-item {
       padding: 40px 30px;;
   }
 
@@ -160,11 +160,11 @@
 }
 /*Tablet*/
 @media (min-width: 513px) and (max-width:812px){
-  .our_process_feedback {
+  .our--process-feedback {
     margin: 15px 0 !important;
   }
 
-  .clients_feedback_item .feedback_body p {
+  .clients--feedback-item .feedback_body p {
     line-height: 20px;
   }
 }

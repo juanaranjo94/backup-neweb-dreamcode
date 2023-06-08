@@ -27,8 +27,6 @@ export default function Dreamcoders() {
 
     const {t} = useTranslation();
     const oursdreamcoders = t('careers.ours_dreamcoders', { returnObjects: true })
-console.log(oursdreamcoders, 'this');
-
 
   return (
     <>

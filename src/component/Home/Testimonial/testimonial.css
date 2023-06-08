@@ -30,7 +30,7 @@
   }
   
   
-  .erp_testimonial_item .content:before {
+  .testimonial--item .content:before {
     content: "";
     width: 14px;
     height: 24px;
@@ -42,7 +42,7 @@
     
   }
   
-  .erp_testimonial_item .media::before {
+  .testimonial--item .media::before {
     content: "";
     width: 130px;
     height: 130px;
@@ -52,18 +52,18 @@
     background: url("../../../img/home/testimonial_img-1.png") no-repeat scroll center bottom;
   }
   
-  .erp_testimonial_item .media.test2::before {
+  .testimonial--item .media.test2::before {
     background: url("../../../img/home/testimonial_img-2.png") no-repeat scroll center bottom;
   }
-  .erp_testimonial_item .media.test3::before {
+  .testimonial--item .media.test3::before {
     background: url("../../../img/home/testimonial_img-3.png") no-repeat scroll center bottom;
   }
   
-  .erp_testimonial_item {
+  .testimonial--item {
     padding: 10px 25px;
   }
   
-  .erp_testimonial_item .content {
+  .testimonial--item .content {
     background-color: white;
     box-shadow: 1px 1px 12px 5px rgb(1 1 0 / 10%);
     padding: 40px;
@@ -71,7 +71,7 @@
     border-radius: 50px;
   }
   
-  .erp_testimonial_item .content p {
+  .testimonial--item .content p {
     font-weight : bold;
     font-size : 16px;
     line-height : 20pt;
@@ -80,19 +80,19 @@
      
   }
   
-  .erp_testimonial_item .media .media-body{
+  .testimonial--item .media .media-body{
     align-items: center;
     margin-top: 30px;
     padding-left: 27px;
   }
   
-  .erp_testimonial_item .media .media-body h5 {
+  .testimonial--item .media .media-body h5 {
     color : #DEAC14;
     font-weight : bold;
     font-size: 25px;
   }
   
-  .erp_testimonial_item .media .media-body p {
+  .testimonial--item .media .media-body p {
     color : #EAC25E;
     font-weight : bold;
     font-size: 15px;

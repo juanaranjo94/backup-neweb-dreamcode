@@ -1,0 +1,85 @@
+
+  .footer--area .footer--top {
+    border-bottom: 1px solid #e9ecf3;
+    padding: 40px 0 20px;
+  }
+  .footer--bottom {
+margin-top: 16px; 
+  }
+
+  .footer--widget   li a {
+    position: relative;
+    -webkit-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+    display: inline-block;
+  }
+
+  .footer--widget   li a:before {
+    content: "";
+    width: 0;
+    height: 1px;
+    background: #004B8E;
+    right: 0;
+    left: auto;
+    bottom: 0;
+    position: absolute;
+    -webkit-transition: width 0.2s linear;
+    -o-transition: width 0.2s linear;
+    transition: width 0.2s linear;
+  }
+  
+  .footer--widget .widget-wrap p a {
+    color: #666c82;
+    -webkit-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+  }
+  
+  .footer--widget li a:hover:before {
+    width: 100%;
+    right: auto;
+    left: 0;
+    background: #246DFB;
+  }
+  
+  .footer--widget li:last-child {
+    margin-bottom: 0px;
+  }
+
+  .footer--top .footer--widget li a:hover {
+    color: #246DFB !important;
+  }
+  
+  .footer--top .footer--widget .widget-wrap p a:hover,
+  .footer--bottom li a:hover {
+    color: #004B8E !important;
+  }
+
+
+  /*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+.footer--bottom .row, .footer--top .row {
+    align-items: center;
+    justify-content: center;
+    text-align: center !important;
+}
+
+.footer--bottom ul {
+  text-align: center !important;
+}
+
+.footer--top .row div {
+  margin-bottom: 20px;
+}
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:812px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

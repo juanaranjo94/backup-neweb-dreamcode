@@ -45,8 +45,8 @@ function Testimonial (){
                         {
                             testimonial.map((item, i) => {
                                 return (
-                                    <SwiperSlide className='testimonial'>                          
-                                        <div className="erp_testimonial_item ">
+                                    <SwiperSlide className='testimonial' key={i}>                          
+                                        <div className="testimonial--item ">
                                             <div className="content"><p>{item.DescripT}</p></div>
                                                 <div className={`media ${item.testImg}`}>
                                                     <div className="media-body">

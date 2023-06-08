@@ -58,7 +58,7 @@ const Menu = ({ location: { pathname }, match: { params: { locale } }, history})
                         <NavLink className="btn_get btn_hover" to={(location) => ({ ...location, pathname: '/blog' })}>DreamBlog</NavLink>
                     </li>
                     <li className='dropdown nav-item'>
-                        <NavLink className="btn_get btn_hover" to={(location) => ({ ...location, pathname: '/test' })}>Test</NavLink>
+                        <NavLink className="btn_get btn_hover" to={(location) => ({ ...location, pathname: '/careers' })}>Careers</NavLink>
                     </li>
                 </ul>
                 <ul className='navbar-nav pl-4 '>

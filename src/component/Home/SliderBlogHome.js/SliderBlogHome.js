@@ -5,7 +5,8 @@ import Markdown from "react-markdown"
 import { useTranslation } from 'react-i18next';
 import postlistEn from "../../../assets/post/postsEn.json"
 import postlistEs from "../../../assets/post/postsEs.json"
-import "./sliderBlog.css"
+import "./sliderBlog.css";
+import { NavLink } from 'react-router-i18n';
 
 function SliderBlogHome () {
 
@@ -34,7 +35,7 @@ function SliderBlogHome () {
                         { 
                             postlist.slice(0, 10).map((post, i) => {
                                 return (
-                                    <SwiperSlide className="blog_item text-center left" key={i}>
+                                    <SwiperSlide className=" text-center left" key={i}>
                                         <div className="row m-0">
                                             <div className="col-lg-7 p-0">
                                                 <img className="img-fluid w-100" src={require(`../../../img/posts/${post.imglink}`)} alt={post.title}/>
@@ -42,11 +43,11 @@ function SliderBlogHome () {
                                             <div className="col-lg-5 p-0 contentBlog">
                                                 <div className="text-left contentBlogItem">
                                                     <div className="feedback f_p">
-                                                        <a href={`/${post.url}`}>
+                                                        <NavLink to={`/${post.url}`}>
                                                             <h2 className="text-uppercase f_p f_size_25 f_600 w_color mb_20">{post.title}</h2>
-                                                        </a>
+                                                        </NavLink>
                                                         <Markdown children={excerptList[i]} skipHtml={false} className="post-text f_size_18"/>
-                                                        <a href={`/${post.url}`} className="f_size_18 f_600 w_color learn_btn">{t('components.read_more')}</a>
+                                                        <NavLink to={`/${post.url}`} className="f_size_18 f_600 w_color learn_btn">{t('components.read_more')}</NavLink>
                                                     </div>
                                                 </div>
                                             </div>

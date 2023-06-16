@@ -1,7 +1,7 @@
 import React from 'react';
 import './postList.css'
-import enPost from './../../../assets/post/postsEn.json';
-import esPost from './../../../assets/post/postsEs.json';
+import enPost from './../../../assets/posts/postsEn.json';
+import esPost from './../../../assets/posts/postsEs.json';
 import { Link } from 'react-router-i18n';
 import Markdown from "react-markdown"
 import { useTranslation } from 'react-i18next';
@@ -13,6 +13,8 @@ function PostList() {
     let postList = null;
 
     lng === 'en' ? postList = enPost : postList = esPost
+
+    
 
     //Imprime solo las primeras 20 palabras del articulo
     const excerptList = postList.map(post => {

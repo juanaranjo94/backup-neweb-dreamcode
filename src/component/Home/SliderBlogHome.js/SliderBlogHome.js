@@ -3,8 +3,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay } from "swiper";
 import Markdown from "react-markdown"
 import { useTranslation } from 'react-i18next';
-import postlistEn from "../../../assets/post/postsEn.json"
-import postlistEs from "../../../assets/post/postsEs.json"
+import postlistEn from "../../../assets/posts/postsEn.json"
+import postlistEs from "../../../assets/posts/postsEs.json"
 import "./sliderBlog.css";
 import { NavLink } from 'react-router-i18n';
 

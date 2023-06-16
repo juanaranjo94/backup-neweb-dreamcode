@@ -1,7 +1,7 @@
 import React from 'react';
 import Markdown from "react-markdown"
-import postlistEn from './../assets/post/postsEn.json';
-import postlistEs from './../assets/post/postsEs.json';
+import postlistEn from './../assets/posts/postsEn.json';
+import postlistEs from './../assets/posts/postsEs.json';
 import { Redirect } from 'react-router-dom';
 import {  NavLink } from 'react-router-i18n';
 import { useTranslation } from 'react-i18next';

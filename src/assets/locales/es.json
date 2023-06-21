@@ -1,6 +1,5 @@
 {
   "locale": "es",
-  "contact": "Contacto",
   "components": {
     "read_more": "Leer Más"
   },
@@ -8,7 +7,9 @@
     "services": "Servicios",
     "about": "Nosotros",
     "contact": "Contacto",
-    "careers": "Carreras"
+    "careers": "Carreras",
+    "english": "Ingles",
+    "spanish": "Español"
   },
   "footer": {
     "email": "Correo",
@@ -20,20 +21,20 @@
         "name": "Nosotros",
         "items": [
           {
-            "url": "/about#ourValues",
-            "text": "Valores"
-          },
-          {
-            "url": "/about#expertise",
-            "text": "Experiencia"
-          },
-          {
             "url": "/services",
             "text": "Servicios"
           },
           {
             "url": "/about#story",
             "text": "Historia"
+          },
+          {
+            "url": "/about#values",
+            "text": "Valores"
+          },
+          {
+            "url": "/about#expertise",
+            "text": "Experiencia"
           }
         ]
       },
@@ -56,7 +57,32 @@
       }
     ]
   },
-  "---Home Page---": "----Home Page ----",
+  "meta_datos": {
+    "meta_title_404": "Página no encontrada - Error 404 | DreamCode Software Inc",
+    "meta_description_404": "Lo sentimos, la página que estás buscando no se encuentra disponible. Navega por nuestro sitio web para encontrar la información que necesitas. | DreamCode Software Inc",
+    "meta_title_Home": "DreamCode: Desarrollo de Software a medida - IT Staff Augmentation",
+    "meta_description_Home": "Especialistas en Desarrollo de software, brindamos servicios integrales de tecnología de alta calidad para Estados Unidos y Latinoamérica ",
+    "meta_title_Services": "Servicios DreamCode: Desarrolladores de software para el futuro ",
+    "meta_description_Services": "Desarrollo de software. Equipo experto en la creación de productos con alta tecnología para las empresas, talento humano especializado para los negocios",
+    "meta_title_Process": "Metodologías y prácticas ágiles para el desarrollo de software",
+    "meta_description_Process": "Todos nuestros procesos están centralizados en el usuario, entregamos valor al cliente durante todo el desarrollo de sus proyectos, dinamismo y flexibilidad.",
+    "meta_title_devops": "¿Qué es DevOps? Estrategia efectiva de fusión de dos equipos",
+    "meta_description_devops": "DevOps es un proceso de desarrollo de software y un cambio de cultura organizacional que acelera la entrega de software de mayor calidad al automatizar e integrar dos equipos.",
+    "meta_title_Scrum": "Agile Scrum: qué es, como funciona",
+    "meta_description_Scrum": "Scrum es una metodología ágil utilizada en el desarrollo de Software, basada en procesos iterativos e incrementales, un marco adaptable, rápido, flexible y eficaz.",
+    "meta_title_About": "Nosotros - DreamCode",
+    "meta_description_About": "Creemos en el desarrollo de la tecnología y la transformación digital como el futuro de los negocios, el crecimiento de las compañías y el mundo que nos rodea.",
+    "meta_title_Jobs": "Trabaja con nosotros - Desarrolla tu carrera ",
+    "meta_description_Jobs": "Impulsa tu camino profesional en DreamCode, conoce  oportunidades laborales de crecimiento. Conéctate con nosotros y emprende tu futuro.",
+    "meta_title_Contacts": "DreamCode: Contáctanos, queremos escucharte",
+    "meta_description_Contacts": "Cuéntanos que idea o sueño de negocio tienes para tu empresa, estamos listos para empezar ¡Escríbenos!",
+    "meta_title_Blog": "Blog - DreamBlog: Stay Future",
+    "meta_description_Blog": "Contenido de valor en tecnología  y desarrollo de software para el futuro",
+    "meta_title_Dreamcoders": "DreamCoders | Soñamos para transformar el futuro",
+    "meta_description_Dreamcoders": "Creemos que un sueño puede hacerse realidad con ayuda de otros, en DreamCode convertimos los sueños e ideas en realidad ",
+    "meta_title_great": "DreamCode : Somos un Great Place To Work ",
+    "meta_description_great": "Conoce porque nuestros colaboradores reconocen un ambiente laboral agradable y lleno de bienestar, donde las personas son el primer y más importante criterio en cada decisión."
+  },
   "titleBannerHome": "Soñar para <1>Transformar</1> el futuro",
   "service_home": {
     "service_title": "Desarrollo de Software para el futuro",
@@ -115,7 +141,6 @@
       }
     ]
   },
-  "---Services Page---": "----Services Page ----",
   "servicePage": {
     "title_banner_Services": "Soluciones tecnológicas a la \n<0>medida</0>",
     "descri_banner_Services": "Nos especializamos en ofrecer servicios rentables e integrales. Contamos con el talento humano de un grupo de ingenieros altamente calificados en Java, Spring, Framework, Javascript, Angular, Oracle, MySQL y AWS.",
@@ -415,5 +440,74 @@
         "img": "img-benefits-life-insurance.jpg"
       }
     ]
+  },
+  "devops": {
+    "banner_title": "¿Qué es DevOps? Estrategia efectiva de fusión de dos equipos",
+    "banner_description": "Por definición, DevOps describe un proceso de desarrollo de software y un cambio de cultura organizacional que acelera la entrega de software de mayor calidad al automatizar e integrar los esfuerzos de los equipos de desarrollo y operaciones de TI, dos grupos que tradicionalmente practicaban por separado o en silos.",
+    "Dev_meaning": "Los Desarrolladores centran sus esfuerzos en 'distribuir el código'. Los cambios y mejoras en los sistemas de producción y las fallas consiguientes en la prestación del servicio se consideran parte de esta prisa por hacer llegar el último y mejor código a los consumidores.",
+    "Ops_meaning": "Los grupos de Operaciones, por otro lado, son 'reactivos'. Se centran en la gestión de servicios y la respuesta a incidentes. Los equipos que apoyan las operaciones tienden a utilizar modelos de organización estrechamente alineados con ITSM e ITIL.",
+    "how_devops_works_title": "¿Cómo funciona DevOps ?",
+    "how_devops_works_text": "Bajo un modelo de DevOps, los equipos de desarrollo y operaciones ya no están 'aislados'. A veces, estos dos equipos se fusionan en un solo equipo donde los ingenieros trabajan durante todo el ciclo de vida de la aplicación, desde el desarrollo y la prueba hasta la implementación y las operaciones, y desarrollan una gama de habilidades que no se limitan a una sola función. \nEn algunos modelos de DevOps, los equipos de control de calidad y seguridad también pueden integrarse más estrechamente con el desarrollo y las operaciones y durante todo el ciclo de vida de la aplicación. Cuando la seguridad es el centro de atención de todos en un equipo de DevOps, esto a veces se denomina DevSecOps.",
+    "BenefitsDevOps": {
+      "Title": "Beneficios de DevOps",
+      "Benefits1Title": "Velocidad",
+      "Benefits1Descrip": "Muévase a gran velocidad para que pueda innovar para los clientes más rápido, adaptarse mejor a los mercados cambiantes y ser más eficiente para impulsar los resultados comerciales. El modelo DevOps permite a sus desarrolladores y equipos de operaciones lograr estos resultados",
+      "Benefits2Title": "Entrega rápida",
+      "Benefits2Descrip": "Aumente la frecuencia y el ritmo de los lanzamientos para que pueda innovar y mejorar su producto más rápidamente. La integración y la entrega continuas son prácticas que automatizan el proceso de lanzamiento del software, desde la construcción hasta la implementación",
+      "Benefits3Title": "Fiabilidad",
+      "Benefits3Descrip": "Garantice la calidad de las actualizaciones de las aplicaciones y los cambios en la infraestructura para que pueda entregar de manera confiable a un ritmo más rápido mientras mantiene una experiencia positiva para los usuarios finales",
+      "Benefits4Title": "Escala",
+      "Benefits4Descrip": "Opere y administre su infraestructura y procesos de desarrollo a escala. La automatización y la consistencia lo ayudan a administrar sistemas complejos o cambiantes de manera eficiente y con un riesgo reducido",
+      "Benefits5Title": "Colaboración mejorada",
+      "Benefits5Descrip": "Construya equipos más efectivos bajo un modelo cultural de DevOps, que enfatiza valores como la propiedad y la responsabilidad. Los desarrolladores y los equipos de operaciones colaboran estrechamente, comparten muchas responsabilidades y combinan sus flujos de trabajo",
+      "Benefits6Title": "Seguridad",
+      "Benefits6Descrip": "Muévase rápidamente mientras mantiene el control y preserva el cumplimiento. Puede adoptar un modelo DevOps sin sacrificar la seguridad mediante el uso de políticas de cumplimiento automatizadas, controles detallados y técnicas de administración de la configuración"
+    },
+    "PracticesDevOps": {
+      "DevOpsTitle": "Integración continua",
+      "DevOpsDescrip": "La integración continua es una práctica de desarrollo de software donde los desarrolladores combinan sus cambios de código en un repositorio central, después de lo cual se ejecutan compilaciones y pruebas automatizadas. Los objetivos clave de la integración continua son encontrar y corregir errores más rápido, mejorar la calidad del software y reducir el tiempo para las nuevas actualizaciones",
+      "DevOpsTitle2": "Entrega continua",
+      "DevOpsDescrip2": "La entrega continua es una práctica de desarrollo de software en la que los cambios de código se crean, se prueban y se preparan automáticamente para su lanzamiento a producción. Esto se expande en la integración continua por medio de la implementación de todos los cambios necesarios del código en un entorno de prueba y / o un entorno de producción después la etapa de construcción "
+    }
+  },
+  "scrum": {
+    "banner_title": "Agile Scrum: ¿ Qué es, cómo funciona ?",
+    "banner_description": "Scrum es una metodología ágil utilizada en el desarrollo de Software, basada en procesos iterativos e incrementales. Scrum es un marco ágil adaptable, rápido, flexible y eficaz que está diseñado para entregar valor al cliente durante todo el desarrollo del proyecto.",
+    "ScrumEvents": {
+      "Title": "Eventos de Scrum",
+      "Descrip": "Son bloques de tiempo para crear regularidad y minimizar la necesidad de reuniones innecesarias e indefinidas en Scrum.",
+      "event1": "Planificación de Sprint",
+      "event1Paragraph": "El plan de sprint es creado por todos los miembros del equipo Scrum en colaboración. En esta ceremonia se toman todas las historias de usuarios priorizadas y se decide cuáles esprintar en función del objetivo del sprint y la capacidad del equipo. \n\nDefine qué se puede entregar en el Incremento resultante del Sprint que comienza y cómo se hará el trabajo necesario para entregar el Incremento.",
+      "event2": "Scrum diario",
+      "event2Paragraph": "Es una reunión diaria, de máximo 15 minutos, con todos los miembros del equipo de desarrollo para discutir el avance que se ha hecho hacia el objetivo Sprint y planificar el trabajo para el día siguiente. \n\nLuego, cada miembro respondió a los otros miembros del equipo Estas o preguntas similares: ¿He cumplido el compromiso que hice ayer? ¿A qué compromiso me comprometeré hoy? ¿Veo algún impedimento para lograrlo?",
+      "event3": "Revisión de Sprint",
+      "event3Paragraph": "Se trata de una reunión informal, no de seguimiento. Al final del Sprint, se realiza una revisión del Sprint para inspeccionar el Incremento y adaptar la Lista de Productos. \n\nDurante la revisión de Sprint, el equipo y las partes interesadas colaboran para determinar las siguientes cosas que se podrían hacer para optimizar el valor. Todo el equipo Scrum asiste y las partes interesadas están invitadas.",
+      "event4": "Sprint retrospectiva",
+      "event4Paragraph": "Es una oportunidad para que el equipo de Scrum se inspeccione y cree un plan de mejoras que se abordarán durante el próximo Sprint. \n\nEl propósito de la Retrospectiva del Sprint es Inspeccionar cómo fue el último Sprint en términos de personas, relaciones, procesos y herramientas; Identificar y ordenar los elementos más importantes que salieron bien y las posibles mejoras y, Crear un plan para implementar mejoras en la forma en que el Equipo Scrum realiza su trabajo."
+    },
+    "ScrumTeam": {
+      "Title": "Equipo Scrum",
+      "Descrip": "Consiste en un Product owner, el equipo de Desarrollo y un Scrum Master. Es autoorganizado y multifuncional. Entregan productos de forma iterativa e incremental",
+      "Team1": "Propietario del producto",
+      "Team1Descrip": "Es la persona que conoce y comprende las necesidades de los usuarios, conoce el negocio de la cabeza a los pies y es responsable de transmitir ese conocimiento al equipo de desarrollo (o al equipo de soluciones)",
+      "Team2": "Equipo de desarrollo",
+      "Team2Descrip": "Está formado por desarrolladores, que ejecutan el trabajo complejo más allá del código. Realizan actividades de proyecto para crear y entregar una vista previa del producto terminado en cada sprint.",
+      "Team3": "Scrum Master",
+      "Team3Descrip": "Es un líder que está al servicio del Scrum Team y de la organización, ayudándoles a entender y vivir la agilidad. Conoce el estado del proyecto, cuida los eventos y que el equipo es multifuncional"
+    },
+    "ScrumArtifacts": {
+      "Title": "Artefactos en Scrum",
+      "Descrip": "Representan trabajo o valor de diversas formas que son útiles para brindar transparencia y oportunidades de inspección y adaptación",
+      "Artf1": "Product Backlog",
+      "Artf1Descrip": "Es una lista ordenada de todo lo que se sabe que es necesario en el producto. Es la única fuente de requisitos para cualquier cambio que se realice en el producto. El propietario del producto es responsable de la lista de productos, incluida la su contenido, disponibilidad y pedidos. La Lista de Productos evoluciona a medida que lo hacen el producto y el entorno en el que se utilizará. Cambiando constantemente para identificar lo que el producto necesita para ser adecuado, competitivo y útil.",
+      "Artf2": "Backlog Sprint",
+      "Artf2Descrip": "Es el conjunto de elementos de la lista de productos seleccionados para el Sprint, más un plan para entregar el incremento del producto y lograr el objetivo del Sprint. Hace visible todo el trabajo que el Equipo de Desarrollo identifica como necesario para lograr el Objetivo del Sprint. Para garantizar la mejora continua, la Lista de tareas pendientes del Sprint incluye al menos una mejora de proceso de alta prioridad identificada en la Retrospectiva inmediatamente anterior.",
+      "Artf3": "Incremento",
+      "Artf3Descrip": "Es la suma de todos los elementos de la Lista de producto completados durante el Sprint. Recordemos que Scrum es liviano y fácil de entender, lo que no es tan fácil en mantenerse consciente de su esencia y no dejarse caer en el común error de aplicar una serie de prácticas solo por aplicarlas."
+    }
+  },
+  "blog": {
+    "subtitle_blog": "Quédate en el futuro",
+    "description_blog": "Contenido de valor del presente y desarrollo del mañana"
   }
 }

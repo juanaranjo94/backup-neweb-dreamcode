@@ -1,6 +1,6 @@
 ---
 metaTitle: Los principales usos de la nube para tu organización, cuáles son y cómo beneficiarte de ellos
-metaDescription: El uso de la nube está expandiéndose y exigiéndose a lo largo de las compañías del mundo, pero ¿cómo usarla efectivamente?
+meta_description: El uso de la nube está expandiéndose y exigiéndose a lo largo de las compañías del mundo, pero ¿cómo usarla efectivamente?
 title: Tipos de Aplicaciones en la nube, cómo beneficiarte de ellas
 read: 3min
 date: January 5, 2022

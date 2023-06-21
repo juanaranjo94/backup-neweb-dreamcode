@@ -1,6 +1,6 @@
 ---
 metaTitle: Los 5 lenguajes más populares para programar Inteligencia Artificial (IA)
-metaDescription: Para desarrollar todo el potencial de la inteligencia artificial tanto empresas como desarrolladores precisan tomar las decisiones más acertadas en cuanto a los lenguajes de programación que implementarán en sus próximas soluciones tecnológicas.
+meta_description: Para desarrollar todo el potencial de la inteligencia artificial tanto empresas como desarrolladores precisan tomar las decisiones más acertadas en cuanto a los lenguajes de programación que implementarán en sus próximas soluciones tecnológicas.
 title: Los 5 lenguajes más populares para programar Inteligencia Artificial (IA)
 read: 5 -10 min
 date: June 22, 2022

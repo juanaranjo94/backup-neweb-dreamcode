@@ -1,6 +1,6 @@
 ---
 metaTitle: Desarrollando aplicaciones, El ciclo de vida del desarrollo de software (SDLC)
-metaDescription: El ciclo de vida del desarrollo de software tiene como finalidad producir software de alto valor en el periodo y costos previstos para alcanzar o superar las expectativas en tiempo y forma
+meta_description: El ciclo de vida del desarrollo de software tiene como finalidad producir software de alto valor en el periodo y costos previstos para alcanzar o superar las expectativas en tiempo y forma
 title: Desarrollando aplicaciones, El ciclo de vida del desarrollo de software (SDLC)
 read: 5 -10 min
 date: September 02, 2022

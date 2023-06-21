@@ -1,0 +1,110 @@
+/*---Style---*/
+  .scroll div {
+    left: 50%;
+    z-index: 2;
+    display: inline-block;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    font : normal 400 20px/1 'Josefin Sans', sans-serif;
+    letter-spacing: .1em;
+    text-decoration: none;
+    transition: opacity .3s;
+  }
+  
+  .scroll div span::before {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    content: '';
+    width: 6px;
+    height: 6px;
+    margin-left: -3px;
+    background-color: #6A728F;
+    border-radius: 100%;
+    -webkit-animation: scrollAnime 2s infinite;
+    animation: scrollAnime 2s infinite;
+    
+  }
+  
+  .scroll div span {
+    position: absolute;
+    margin-top: 20px;
+    bottom: 0;
+    left: 50%;
+    width: 30px;
+    height: 50px;
+    margin-left: -15px;
+    border: 2px solid #6A728F;
+    border-radius: 50px;
+  }
+
+  /*----- style scroll white ----*/
+    .scroll.white div span::before {
+      background-color: #FFF;
+    }
+    .scroll.white div span {
+      border: 2px solid #FFF;
+    }
+    .scroll.white p {
+      color: #fff;
+    }
+
+  /*----- style scroll dark ----*/
+    .scroll.dark div span::before {
+      background-color: #4D4D4D;
+    }
+    .scroll.dark div span {
+      border: 2px solid #4D4D4D;
+    }
+    .scroll.dark p {
+      color: #4D4D4D;
+    }
+
+
+  /*---Animation--*/
+  @-webkit-keyframes scrollAnime {
+    0% {
+      -webkit-transform: translate(0, 0);
+      opacity: 0;
+    }
+    40% {
+      opacity: 1;
+    }
+    80% {
+      -webkit-transform: translate(0, 20px);
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  @keyframes scrollAnime {
+    0% {
+      transform: translate(0, 0);
+      opacity: 0;
+    }
+    40% {
+      opacity: 1;
+    }
+    80% {
+      transform: translate(0, 20px);
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  /*---Responsive---*/
+/*Mobil*/
+@media screen and (max-width:512px){
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

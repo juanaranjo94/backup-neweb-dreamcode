@@ -1,8 +1,8 @@
 import React from 'react';
-import './../component/Benefits/benefits.css';
+import './../components/Benefits/benefits.css';
 import { useTranslation } from 'react-i18next';
-import ParallaxTitle from '../component/Titles/ParallaxTitle';
-import BenefitsList from '../component/Benefits/BenefitsList';
+import ParallaxTitle from '../components/Titles/ParallaxTitle';
+import BenefitsList from '../components/Benefits/BenefitsList';
 
 function Benefits() {
 
@@ -10,7 +10,7 @@ function Benefits() {
 
   return (
     <>
-        <section className="banner--benefics h-75" id="">
+        <section className="banner--benefics h-75" id="benefits">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-4">
@@ -51,7 +51,7 @@ function Benefits() {
                     </div>
                     <div className="col-lg-3">
                         <button type=" button" className="btn_banner f_p f_size_20 py-2 px_50 f_600 color2">
-                            <NavLink to={"/careers"} >{t("components.read_more")}</a>
+                            <NavLink to={"/careers"} >{t("componentss.read_more")}</a>
                         </button>
                     </div>
                 </div>

@@ -1,6 +1,6 @@
 ---
 metaTitle: JavaScript y sus facultades en la industria del desarrollo web y de aplicaciones
-metaDescription: JavaScript es el lenguaje de programación más popular entre desarrolladores web a nivel mundial el cual recientemente ha demostrado ser viable también para el desarrollo móvil.
+meta_description: JavaScript es el lenguaje de programación más popular entre desarrolladores web a nivel mundial el cual recientemente ha demostrado ser viable también para el desarrollo móvil.
 title: JavaScript y sus facultades en la industria del desarrollo web y de aplicaciones
 read: 5 -10 min
 date: August 22, 2022
@@ -21,7 +21,7 @@ De esa forma se llegó a la producción de la primera versión de JavaScript, la
 
 Para su siguiente versión Netscape forma alianza con Sun Microsystems y juntos desarrollan lo que oficialmente conocemos como JavaScript para incluirlo desde la versión 3.0 de su navegador,en vista de que este lenguaje estaba mejorando la velocidad de navegación en líneas generales, fue adoptado e implementado como tecnología subyacente por otros navegadores de la época. Esto impulso a las directivas de Netscape a decidir estandarizarlo para así evitar una guerra empresarial de tecnologías que ocupara otra rama de desarrollo dentro de su organización.
 
-## JS en la actualidad
+## JS en la actualidad
 
 Así como las tecnologías de internet evolucionaron dinámicamente, el pasar del tiempo trajo consigo importantes mejoras que lograron extender el uso de JavaScript a otros entornos no relacionados con el terreno web. Por ende en la actualidad sus atributos son aprovechados por herramientas como Adobe Acrobat, Flex e incluso Photoshop, el popular software de edición de imágenes.
 

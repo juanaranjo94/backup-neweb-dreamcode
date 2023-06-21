@@ -1,6 +1,6 @@
 ---
 metaTitle: Cinco planteamientos del diseño web responsive que favorecen el posicionamiento de marca empresarial
-metaDescription: Las empresas requieren sitios web que satisfagan las necesidades y capacidades de los dispositivos desde el primer acceso de los clientes. Esto es una norma fundamental para los programadores enfocados en el desarrollo móvil.
+meta_description: Las empresas requieren sitios web que satisfagan las necesidades y capacidades de los dispositivos desde el primer acceso de los clientes. Esto es una norma fundamental para los programadores enfocados en el desarrollo móvil.
 title: Cinco planteamientos del diseño web responsive que favorecen el posicionamiento de marca empresarial
 read: 5 - 10 min
 date: January 28, 2023

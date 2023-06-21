@@ -1,6 +1,6 @@
 ---
 metaTitle: Qué es la Integración continua y la Entrega continua
-metaDescription: Descripción, ventajas técnicas y potencial de la Integración continua y la Entrega continua (CI, CD) para la optimización de desarrollo de software.
+meta_description: Descripción, ventajas técnicas y potencial de la Integración continua y la Entrega continua (CI, CD) para la optimización de desarrollo de software.
 title: Integración continua y Entrega continua, mecanismos clave en el éxito de software
 read: 5min
 date: March 3, 2022

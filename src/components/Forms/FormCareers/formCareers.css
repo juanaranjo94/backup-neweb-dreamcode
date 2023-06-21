@@ -1,0 +1,83 @@
+.profile--form {
+    overflow: hidden;
+}
+
+.profile--form .inputfile {
+    cursor: pointer;
+    opacity: 0;
+    overflow: auto;
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    bottom: 0;
+    left: 0;
+}
+
+.btn_form {
+    background: #fff!important;
+    font-size: 15px;
+    border: 0 solid #fff!important;
+    padding: 10px 15px;
+    transition: all .3s linear;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+
+.profile--form .form-control, .profile--form select {
+    background-color: transparent;
+    border: 1px solid #fff!important;
+    color: #fff;
+    font-weight: 800;
+}
+.profile--form .form-control.is-invalid, .profile--form .was-validated .form-control:invalid {
+    border-color: #ced4da!important;
+    background-image: none!important;
+}
+.profile--form .form-control.is-invalid, .profile--form .was-validated .form-control:invalid {
+    border-color: #fff!important;
+}
+
+.profile--form form .form-control {
+    -webkit-text-fill-color: white !important;
+}
+
+.profile--form form button {
+    font-size: 17px;
+    border: 1.5px solid #fff;
+    --tooltip-width: 100%;
+    background: #ffffff;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    overflow: hidden;
+    transition: all 0.2s;
+    justify-content: center;
+}
+
+/*==========ANIMATION===========*/
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .profile--form h2 {
+        font-size: 50px;
+    }
+    .profile--expert iframe {
+        padding: 80px 0;
+    }
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+    .profile--form h2 {
+        font-size: 50px;
+    }
+    .profile--expert iframe {
+        padding-bottom: 30px;
+    }
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

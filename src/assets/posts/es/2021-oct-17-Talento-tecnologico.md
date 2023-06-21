@@ -1,6 +1,6 @@
 ---
 metaTitle: Talento tecnológico, mejora tu contratación en la industria
-metaDescription: Consejos para crear una estrategia que le ayude a contratar talento tecnológico, optimizar la contratación en tecnología y atraer personal calificado.
+meta_description: Consejos para crear una estrategia que le ayude a contratar talento tecnológico, optimizar la contratación en tecnología y atraer personal calificado.
 title: ¿Poco personal? Consejos de contratación de talento tecnológico
 read: 5min
 date: October 17, 2021

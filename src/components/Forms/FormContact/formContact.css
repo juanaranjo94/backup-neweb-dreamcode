@@ -1,0 +1,163 @@
+/*==========STYLES===========*/
+
+form .form-control , form .custom-select{
+    height: 45px;
+    padding: 10px 15px;
+    font-weight: 600;
+    border-radius: 20px;
+}
+
+form textarea.form-control {
+    height: 150px;
+}
+
+form button {
+    font-size: 17px;
+    border: 1.5px solid #00d8dc;
+    --tooltip-width: 100%;
+    background: #0c0c0d;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    overflow: hidden;
+    transition: all 0.2s;
+    justify-content: center;
+}
+   
+form button span {
+    display: block;
+    margin-left: 0.3em;
+    transition: all 0.3s ease-in-out;
+}
+   
+form button svg {
+    display: block;
+    transform-origin: center center;
+    transition: transform 0.3s ease-in-out;
+}
+   
+form button:hover .svg-wrapper {
+    -webkit-animation: fly-1 0.6s ease-in-out infinite alternate;
+    animation: fly-1 0.6s ease-in-out infinite alternate;
+}
+
+form button:hover svg {
+    transform: translateX(3.2em) rotate(45deg) scale(1.1);
+}
+   
+form button:hover span {
+    transform: translateX(5em);
+    opacity: 0;
+}
+   
+form button:active {
+    transform: scale(0.99);
+}
+
+
+
+/*-----STYLE DARK ----*/
+.dark form, .dark .was-validated .form-check-input:valid~.form-check-label {
+    color: white;
+}
+.dark form .form-control, form select {
+    background-color: transparent !important;
+    border: 1px solid #00d8dc !important;
+    color: #fff !important;
+}
+
+.dark .form-check-input.is-valid~.form-check-label {
+    color: #666c82 !important;
+}
+
+.dark form .form-control {
+    -webkit-text-fill-color: white !important;
+}
+
+.dark .form-control.is-invalid, .dark .was-validated .form-control:invalid {
+    border: 1px solid #00d8dc !important;
+    background-image: none !important;
+}
+  
+.dark form .was-validated .form-check-input:invalid~.form-check-label {
+    color: #fff;
+}
+
+.dark input:-internal-autofill-selected {
+    background-color: transparent;
+}
+
+/*-----STYLE LIGHT ----*/
+
+.lightForm {
+    background: url("../../../img/form/banner-form-contacto.png") no-repeat scroll bottom;
+    background-size: 700px 600px;
+    padding: 50px 0px 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: bottom;
+    color: #666c82
+}
+
+.lightForm form button {
+    border: 1.5px solid #00d8dc;
+    --tooltip-width: 100%;
+    background: #246dfb; 
+}
+
+.lightForm .form-check-input.is-valid~.form-check-label, .lightForm .was-validated .form-check-input:valid~.form-check-label {
+    color: #666c82 !important;
+}
+
+.lightForm form .form-control, .lightForm form select {
+    background-color: transparent !important;
+    border: 1px solid #666c82 !important;
+    color: #666c82 !important;
+}
+
+.lightForm .form-control.is-invalid, .lightForm .was-validated .form-control:invalid {
+    border: 1px solid #666c82  !important;
+    background-image: none !important;
+}
+
+.lightForm form .was-validated .form-check-input:invalid~.form-check-label {
+    color: #666c82 ;
+}
+
+.lightForm input:-internal-autofill-selected {
+    background-color: #fff;
+}
+
+/*==========ANIMATION===========*/
+@keyframes fly-1 {
+    from {
+     transform: translateY(0.1em);
+     -webkit-transform: translateY(0.1em);
+    }
+   
+    to {
+     transform: translateY(-0.1em);
+     -webkit-transform: translateY(-0.1em);
+    }
+   }
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .lightForm {
+        background: url("../../../img/form/sm-banner-form-contacto.png") no-repeat scroll bottom;
+        width: 100%;
+    }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+    .lightForm {
+        background: url("../../../img/form/sm-banner-form-contacto.png") no-repeat scroll bottom;
+        width: 100%;
+    }
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

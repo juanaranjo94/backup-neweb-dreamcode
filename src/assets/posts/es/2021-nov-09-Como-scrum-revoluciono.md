@@ -1,6 +1,6 @@
 ---
 metaTitle: Cómo SCRUM revolucionó el sector TI
-metaDescription: Por qué la metodología Agile SCRUM cambió el paradigma y revolucionó el sector de TI desde su implementación.
+meta_description: Por qué la metodología Agile SCRUM cambió el paradigma y revolucionó el sector de TI desde su implementación.
 title: Agile SCRUM, 5 Razones por las que revolucionó el sector de TI
 read: 5min
 date: November 9, 2021

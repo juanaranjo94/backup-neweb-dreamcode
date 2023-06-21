@@ -1,6 +1,6 @@
 ---
 metaTitle: Cómo potencia la Arquitectura de software Cloud Native a las compañías
-metaDescription: Qué es y por qué el Cloud Native es fundamental para la escalabilidad de una compañía y su valorización a largo plazo.
+meta_description: Qué es y por qué el Cloud Native es fundamental para la escalabilidad de una compañía y su valorización a largo plazo.
 title: Cómo se beneficia tu negocio de la Arquitectura Cloud Native
 read: 3min
 date: March 3, 2022

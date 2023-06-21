@@ -1,0 +1,24 @@
+.entry_post_info code+code:before {
+    content: "|";
+    display: inline-block;
+    margin: 0 7px;
+}
+
+.entry_post_info code {
+    color: #677294;
+    padding-bottom: 5px;
+}
+
+.post_content li, .post_content p, .post_content pre code {
+    font-weight: 500;
+    font-size: 19px;
+    color: #677391;
+}
+
+.post_tag p {
+    color: #595b64;
+    border: 1px solid #cfcfe6;
+    border-radius: 14px;
+    padding: 3px 11px;
+    display: inline-block;
+}

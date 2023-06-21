@@ -1,6 +1,6 @@
 ---
 metaTitle: ¿Qué hacer ante la poca oferta de talento tecnológico?
-metaDescription: Ventajas de contratar talento tecnológico externo, Outsorcing para desarrollo de software y alternativas ante la escasez de personal en tecnología
+meta_description: Ventajas de contratar talento tecnológico externo, Outsorcing para desarrollo de software y alternativas ante la escasez de personal en tecnología
 title: Alternativas ágiles de cara a la escasez de talento tecnológico
 read: 3min
 date: November 9, 2021

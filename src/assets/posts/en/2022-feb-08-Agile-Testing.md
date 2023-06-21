@@ -1,6 +1,6 @@
 ---
 metaTitle: What Agile Testing is and how software development projects benefit from its principles.
-metaDescription: Learn how test automation can speed up software development without altering its quality
+meta_description: Learn how test automation can speed up software development without altering its quality
 title: What Agile testing is and how to apply its pillars
 read: 3min
 date: February 8, 2022

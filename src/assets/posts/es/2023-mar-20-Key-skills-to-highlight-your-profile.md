@@ -1,6 +1,6 @@
 ---
 metaTitle: Habilidades clave para destacar tu perfil como desarrollador de aplicaciones
-metaDescription: Convertirse en programador de aplicaciones es una de las mejores decisiones profesionales que actualmente puedes tomar, la industria tecnológica está en constante crecimiento, en esta siempre podrás encontrar áreas para la innovación y el desarrollo.
+meta_description: Convertirse en programador de aplicaciones es una de las mejores decisiones profesionales que actualmente puedes tomar, la industria tecnológica está en constante crecimiento, en esta siempre podrás encontrar áreas para la innovación y el desarrollo.
 title: Habilidades clave para destacar tu perfil como desarrollador de aplicaciones
 read: 5 - 10 min
 date: March 20, 2023
@@ -13,13 +13,13 @@ Si eres un desarrollador de aplicaciones y estás buscando destacar tu perfil, h
 
 En este artículo encontrarás toda la información que en DreamCode consideramos relevante para que logres desenvolverte de la mejor manera en nuestro sector tecnológico.
 
-## El perfil del desarrollador
+## El perfil del desarrollador
 
 Convertirse en programador es una de las mejores decisiones profesionales que actualmente puedes tomar, dado que la programación de aplicaciones es un campo en constante crecimiento en el cual siempre habrá espacio para la innovación y el desarrollo.
 
 Es así como el perfil de un desarrollador de aplicaciones implica la creación de software y otros programas informáticos para ser utilizados en diversos dispositivos, incluyendo computadoras de escritorio, teléfonos inteligentes y tabletas, entre otros. Como desarrollador podrás trabajar en una amplia gama de proyectos, incluyendo aplicaciones de negocios, juegos, aplicaciones de productividad y aplicaciones para dispositivos médicos.
 
-## Responsabilidad del rol
+## Responsabilidad del rol
 
 Tus responsabilidades específicas como desarrollador de aplicaciones pueden variar según el proyecto en el que te encuentres trabajando, por lo que a menudo te podrás encontrar en las labores de:
 

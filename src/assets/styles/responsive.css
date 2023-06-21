@@ -1,13 +1,4 @@
 @media (max-width: 1550px){
-    .container.custom_container{
-        max-width: 1170px;
-    }
-    .action_img {
-        margin-right: 0;
-    }
-    .agency_featured_img img{
-        max-width: 100%;
-    }
     .banner_img img{
         max-width: 100%;
     }
@@ -41,9 +32,7 @@
 }
 
 @media (max-width:1199px){
-    .container.custom_container {
-        max-width: 960px;
-    }
+
     .f_width_24,.f_width_12,.f_width_20{
         margin-bottom: 35px;
     }
@@ -72,16 +61,16 @@
         padding-bottom: 30px;
     }
 
-    .blog_content{
+    .post_content{
         padding: 25px 15px 42px 20px;
     }
       .nav-item + .nav-item {
         margin-left: 16px;
     }
-    .blog_post_item .blog_content {
+    .blog_post_item .post_content {
         padding: 22px 12px 35px;
     }
-    .blog_single .blog_content{
+    .blog_single .post_content{
         padding-bottom: 0px;
     }
     .saas_service_content{
@@ -217,13 +206,6 @@
     }
     .footer_top{
         padding-bottom: 60px;
-    }
-    .container.custom_container {
-        max-width: 100%;
-        padding: 0px 15px;
-    }
-    .action_img{
-        margin-top: 0;
     }
     .footer--area .footer_top{
         padding-bottom: 20px;
@@ -538,7 +520,7 @@
     .sec_title h2.mb_20{
         margin-bottom: 10px;
     }
-    .blog_content .post_date{
+    .post_content .post_date{
         top: -60px;
     }
     .scrum_events_tab .nav-item{

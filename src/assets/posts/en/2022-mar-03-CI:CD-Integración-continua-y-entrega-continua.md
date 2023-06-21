@@ -1,6 +1,6 @@
 ---
 metaTitle: What are Continuous Integration and Continuous Delivery
-metaDescription: overview, technical advantages and potential of Continuous Integration and Continuous Delivery (CI, CD) for software development optimization.
+meta_description: overview, technical advantages and potential of Continuous Integration and Continuous Delivery (CI, CD) for software development optimization.
 title: Continuous Integration and Continuous Delivery, key mechanisms in software success
 read: 5min
 date: March 3, 2022

@@ -1,0 +1,46 @@
+
+  .footer--area .footer--top {
+    border-bottom: 1px solid #e9ecf3;
+    padding: 40px 0 20px;
+  }
+
+  .footer--widget li .read_more_btn:hover:before {
+    background: #004B8E !important;
+  }
+  
+  .footer--widget li:last-child {
+    margin-bottom: 0px;
+  }
+  
+  .footer--top .footer--widget li a:hover , .footer--top .footer--widget .widget-wrap p a:hover,
+  .footer--bottom li a:hover {
+    color: #004B8E !important;
+  }
+
+
+  /*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+.footer--bottom .row, .footer--top .row {
+    align-items: center;
+    justify-content: center;
+    text-align: center !important;
+}
+
+.footer--bottom ul {
+  text-align: center !important;
+}
+
+.footer--top .row div {
+  margin-bottom: 20px;
+}
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

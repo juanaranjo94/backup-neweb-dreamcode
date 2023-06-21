@@ -1,0 +1,98 @@
+.banner_careers {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: url("../../img/careers/banner-careers.jpg") no-repeat scroll center bottom;
+    background-size: cover;
+    padding: 180px 0 120px;
+  }
+
+.profile--banner {
+  padding: 30px 0;
+}
+
+.profile--banner h1::after {
+  content: "";
+  background: url("../../img/iconos/fondo-home2.png") no-repeat scroll center bottom;
+  display: inline-block;
+  width: 65px;
+  height: 65px;
+  background-size: cover;
+  z-index: 0;
+  right: 0;
+  top: 0;
+}
+
+.profile--role h2 {
+  position: absolute;
+  width: auto;
+  margin-top: -30px;
+  padding: 2px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.jobs--tab .media {
+  border-radius: 20px;
+  padding: 20px;
+  height: 340px;
+  transform: translateY(10px);
+  transition: all 0.3s linear;
+}
+
+.jobs--tab .media-body {
+  border: 2px solid #fff ;
+  padding: 35px 20px;
+  border-radius: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+.bg_color1 { background: linear-gradient(0deg, rgba(0, 134, 94, 1) 0%, rgba(0, 220, 94, 1) 100%);}
+.bg_color2 { background: linear-gradient(0deg, rgba(104, 0, 212, 1) 0%, rgba(110, 85, 193, 1) 100%);}
+.bg_color3 { background: linear-gradient(0deg, rgba(0, 162, 170, 1) 0%, rgba(30, 206, 255, 1) 100%);}
+.bg_color4 { background: linear-gradient(0deg, rgba(1, 111, 255, 1) 0%, rgba(78, 123, 223, 1) 100%);}
+.bg_color5 { background: linear-gradient(0deg, rgba(254, 100, 34, 1) 0%, rgba(255, 159, 1, 1) 100%);}
+.bg_color6 { background: linear-gradient(0deg, rgba(174, 69, 127, 1) 0%, rgba(235, 33, 241, 1) 100%);}
+
+.color1 { color: rgba(0, 134, 94, 1)!important;}
+.color2 { color: rgba(104, 0, 212, 1)!important;}
+.color3 { color: rgba(0, 162, 170, 1) !important;}
+.color4 { color: rgba(1, 111, 255, 1) !important;}
+.color5 { color: rgba(254, 100, 34, 1)!important;}
+.color6 { color: rgba(174, 69, 127, 1)!important;}
+
+.border_color1 { border-color: rgba(0, 134, 94, 1)!important;}
+.border_color2 { border-color: rgba(104, 0, 212, 1)!important;}
+.border_color3 { border-color: rgba(0, 162, 170, 1) !important;}
+.border_color4 { border-color: rgba(1, 111, 255, 1) !important;}
+.border_color5 { border-color: rgba(254, 100, 34, 1)!important;}
+.border_color6 { border-color: rgba(174, 69, 127, 1)!important;}
+
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+.banner_careers h1 {
+  font-size: 60px;
+  line-height: 50px;
+}
+.jobs--tab .media {
+  height: 260px;
+}
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+  .banner_careers h1 {
+    font-size: 60px;
+  }
+  .jobs--tab .media {
+    height: 250px;
+  }
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

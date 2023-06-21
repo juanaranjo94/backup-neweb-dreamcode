@@ -1,0 +1,15 @@
+.devops_part_area .devops_part_item {
+    text-align: center;
+    width: 50%;
+    padding: 0px 30px;
+  }
+
+  .devops_practices_item .devops_practices_content {
+    padding: 45px 55px;
+  }
+
+  .devops_practices_item {
+    padding: 25px 60px 0px;
+    background : linear-gradient(-30deg, rgba(149, 41, 249, 1) 0%, rgba(127, 9, 249, 1) 100%);
+  } 
+

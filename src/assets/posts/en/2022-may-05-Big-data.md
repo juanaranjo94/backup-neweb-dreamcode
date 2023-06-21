@@ -1,6 +1,6 @@
 ---
 metaTitle: Big Data and its analytics tools
-metaDescription: Discover the tremendous potential behind Big Data and tits analytics tools.
+meta_description: Discover the tremendous potential behind Big Data and tits analytics tools.
 title: The tremendous potential behind Big Data and its analytics tools.
 read: 3 -5 min
 date: May 5, 2022
@@ -36,7 +36,7 @@ So we can say that **its advantages could be infinite** but we will state the mo
 
 ## In what scenarios can Big Data be applied?
 
-If you are considering the idea of adopting this practice, **it is quite natural to think that you can do so in diverse and multidisciplinary processes** such as marketing, production, decision making, research, etc. 
+If you are considering the idea of adopting this practice, **it is quite natural to think that you can do so in diverse and multidisciplinary processes** such as marketing, production, decision making, research, etc.
 
 ## Here are the 5 most relevant applications of Big Data:
 
@@ -48,4 +48,4 @@ If you are considering the idea of adopting this practice, **it is quite natural
 
 In summary, **Big Data is a source of information that needs to be processed accurately using the most appropriate technological tools for data extraction**, since its usefulness is focused on dictating new guidelines for business efforts. That is why **there is now a high demand for the development of high-precision tools that allow us to exploit this great resource** in the most effective way.
 
-At DreamCode **we understand the importance of every decision that involves the development or adoption of new technological processes** that improve the operation or performance of your business. Therefore we invite you to know our portfolio of services and we invite you to take a quality leap counting on us for your next development. Be our [guest]( https://www.dreamcodesoft.com/services).
+At DreamCode **we understand the importance of every decision that involves the development or adoption of new technological processes** that improve the operation or performance of your business. Therefore we invite you to know our portfolio of services and we invite you to take a quality leap counting on us for your next development. Be our [guest](https://www.dreamcodesoft.com/services).

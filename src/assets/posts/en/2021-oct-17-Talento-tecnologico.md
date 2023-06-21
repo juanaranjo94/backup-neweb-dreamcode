@@ -1,6 +1,6 @@
 ---
 metaTitle: Tech talent, improve your technology recruitment
-metaDescription: Tips for creating a strategy to help you hire tech talent, optimize technology hiring and attract qualified staff.
+meta_description: Tips for creating a strategy to help you hire tech talent, optimize technology hiring and attract qualified staff.
 title: Short-staffed? Tips for hiring tech talent
 read: 5min
 date: October 17, 2021

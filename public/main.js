@@ -51,7 +51,7 @@ const getPostsEN = () => {
                     id: timestamp,
                     title: metadata.title ? metadata.title : "No title given",
                     metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
-                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    meta_description: metadata.meta_description ? metadata.meta_description : "No meta_description given",
                     read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
@@ -62,7 +62,7 @@ const getPostsEN = () => {
 
     //console.log("<url><loc>http://www.dreamcodesoft.com/" + post.url + "</loc><lastmod>2022-06-28T09:41:04+01:00</lastmod><priority>0.6</priority></url>")
 
-    console.log("EN - Id: " + post.id  +  " Url: " + post.url)
+    console.log("EN - fecha: " + post.date + " Id: " + post.id  +  " Url: " + post.url)
 
                 postlistEN.push(post)
                 if (i === files.length - 1) {
@@ -128,7 +128,7 @@ const getPostsES = () => {
                     id: timestamp,
                     title: metadata.title ? metadata.title : "No title given",
                     metaTitle: metadata.metaTitle ? metadata.metaTitle : "No metaTitle given",
-                    metaDescription: metadata.metaDescription ? metadata.metaDescription : "No metaDescription given",
+                    meta_description: metadata.meta_description ? metadata.meta_description : "No meta_description given",
                     read: metadata.read ? metadata.read : "No read given",
                     date: metadata.date ? metadata.date : "No date given",
                     url: metadata.url ? metadata.url : "No url given",
@@ -145,7 +145,7 @@ const getPostsES = () => {
                 if (i === files.length - 1) {
                     //Orden de los post segun la fecha de creación
                     const sortedList = postlistES.sort ((a, b) => {
-                        return a.id > b.id ? 1 : -1
+                        return a.id < b.id ? 1 : -1
                     })
                     //Crea el archivo json
                     let data = JSON.stringify(sortedList)

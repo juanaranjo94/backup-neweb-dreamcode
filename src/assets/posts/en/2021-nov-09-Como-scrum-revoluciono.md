@@ -1,6 +1,6 @@
 ---
 metaTitle: How SCRUM transformed IT industry
-metaDescription: Why the Agile SCRUM methodology changed the paradigm and changed the IT sector since its implementation.
+meta_description: Why the Agile SCRUM methodology changed the paradigm and changed the IT sector since its implementation.
 title: Agile SCRUM, 5 Reasons it transformed the IT industry
 read: 5min
 date: November 9, 2021
@@ -31,7 +31,7 @@ Here are the 5 reasons why the Agile Scrum methodology marked a before and after
 
 ## #1 Meeting Expectations
 
-One of the main reasons why Scrum has been so successful in IT is that customers started to have more clarity in their expectations indicating how much each requirement contributes to the project. From here, the team makes its own estimation and by contrasting this information, it is the Product Owner who establishes its priority. 
+One of the main reasons why Scrum has been so successful in IT is that customers started to have more clarity in their expectations indicating how much each requirement contributes to the project. From here, the team makes its own estimation and by contrasting this information, it is the Product Owner who establishes its priority.
 
 To follow up on the progress of these priorities, the Product Owner is also responsible for checking that the most important requirements have been successfully met before transmitting the feedback to the team. In this way, the Agile scrum methodology in IT starts off on the right foot because the objectives and priorities are measured, evaluated, and aligned across the board from the beginning between the customer and the team. The clarity that this simple but grateful process provides avoids necessary iterations, loss of focus and compliance with tangible results.
 
@@ -48,7 +48,7 @@ Before the advent of Scrum, flexibility and responsiveness to a change, a trend 
 
 When all iterations are on a schedule, the tasks to see the expected results are clear, and a flexible team of deliverables experts monitor the entire workflow around the software development project, the customer has the ability to start using the key functionality they want to achieve long before the product is fully completed.
 
-Similarly, the iterative work methodology and early customer access to the product lay the foundation for developing superior quality software, with clear expectations and a constant flow of feedback that sets the projects up for success. 
+Similarly, the iterative work methodology and early customer access to the product lay the foundation for developing superior quality software, with clear expectations and a constant flow of feedback that sets the projects up for success.
 
 At first it was thought that full customer and process reviewer access to the project would mean roadblocks and wasted resources along the way, but this was quickly demystified when this monitoring and alignment of teams and expectations began to be presented in a structured and agile way that empowered the process and everyone in it.
 

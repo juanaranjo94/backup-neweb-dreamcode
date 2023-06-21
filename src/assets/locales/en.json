@@ -1,6 +1,5 @@
 {
   "locale": "en",
-  "contact": "Contact",
   "components": {
     "read_more": "Read More"
   },
@@ -8,7 +7,9 @@
     "services": "Services",
     "about": "About Us",
     "contact": "Contact",
-    "careers": "Careers"
+    "careers": "Careers",
+    "english": "English",
+    "spanish": "Spanish"
   },
   "footer": {
     "email": "Email",
@@ -28,7 +29,7 @@
             "text": "History"
           },
           {
-            "url": "/about#ourValues",
+            "url": "/about#values",
             "text": "Values"
           },
           {
@@ -56,7 +57,32 @@
       }
     ]
   },
-  "---Home Page---": "----Home Page ----",
+  "meta_datos": {
+    "meta_title_404": "Page not found - Error 404 | DreamCode Software Inc",
+    "meta_description_404": "Sorry, the page you are looking for is not available. Browse our website to find the information you need. | DreamCode Software Inc",
+    "meta_title_Home": "DreamCode: Custom Software Development - IT Staff Augmentation - Nearshore",
+    "meta_description_Home": "Specialists in software development, we provide comprehensive high-quality technology services for the United States and Latin America.",
+    "meta_title_Services": "Software developers for the future",
+    "meta_description_Services": "Software development. Expert team in the creation of high-tech products for companies, specialized human talent for business.",
+    "meta_title_Process": "Agile methodologies and practices for software development",
+    "meta_description_Process": "All our processes are centralized in the user, we deliver value to the client throughout the development of their projects, dynamism and flexibility.",
+    "meta_title_devops": "What is DevOps? Effective strategy of merging two teams",
+    "meta_description_devops": "DevOps is a software development process and organizational culture change that accelerates the delivery of higher quality software by automating and integrating two teams.",
+    "meta_title_scrum": "Agile Scrum: what it is, how it works",
+    "meta_description_scrum": "Scrum is an agile methodology used in Software development, based on iterative and incremental processes, an adaptable, fast, flexible and efficient framework.",
+    "meta_title_About": "About us - DreamCode",
+    "meta_description_About": "We believe in the development of technology and digital transformation as the future of business, the growth of companies and the world around us.",
+    "meta_title_Jobs": "Work with us: Join the future",
+    "meta_description_Jobs": "Boost your professional path at DreamCode, discover job opportunities for growth. Connect with us and start your future",
+    "meta_title_Contacts": "DreamCode: Contact us, we want to hear from you",
+    "meta_description_Contacts": "Boost your professional path at DreamCode, discover job opportunities for growth. Connect with us and start your future.",
+    "meta_title_Blog": "DreamBlog: Stay Future",
+    "meta_description_Blog": "Value content in technology and software development for the future",
+    "meta_title_Dreamcoders": "DreamCoders | We dream to transform the future",
+    "meta_description_Dreamcoders": "We believe that a dream can come true with the help of others, at DreamCode we turn dreams and ideas into reality",
+    "meta_title_great": "DreamCode | We are a Great Place to Work",
+    "meta_description_great": "Find out why our collaborators recognize a pleasant work environment full of well-being, where people are the first and most important criterion in each decision."
+  },
   "titleBannerHome": "Dream to <1>Transform</1> the future",
   "service_home": {
     "service_title": "Software development for the future",
@@ -115,7 +141,6 @@
       }
     ]
   },
-  "---Services Page---": "----Services Page ----",
   "servicePage": {
     "title_banner_Services": "<0>Tailored</0> \nTechnological Solutions",
     "descri_banner_Services": "We specialize in offering profitable and comprehensive services. We have the human talent of a group of highly qualified engineers in Java, Spring, Framework, Javascript, Angular, Oracle, MySQL and AWS .",
@@ -348,7 +373,7 @@
     }
   },
   "great-place": {
-    "title_banner": "The 99% of our\n<1>dreamcoders indicate</1>\nthat we are <3>an excellent\n <1>place to</1>\n<1>WORK</1></3>",
+    "title_banner": "The 99% of our\n<1>dreamcoders states</1>\nthat we are <3>one of the <1>\ngreatest place</1><1>\n to work</1></3>",
     "btn_link_home": "Learn more about this recognition",
     "2023": "This year, for the first time, we participated and obtained the Great Place To Work certification, being recognized as one of the best companies to work for in Colombia. The 99% of our employees indicate that we are an excellent place to work, a figure that sets us apart from other companies in the IT category in the country, which have achieved an 86% satisfaction rate among their employees. \n\n Our DreamCoders recognize that their experience within the company is highly satisfying. They highlight a pleasant work environment full of well-being, where people are the first and most important criterion in every decision. We are proud of what our employees say. Discover why we are a great place to work: ",
     "culture_title": "A culture that prioritizes people",
@@ -415,5 +440,74 @@
         "img": "img-benefits-life-insurance.jpg"
       }
     ]
+  },
+  "devops": {
+    "banner_title": "What is DevOps? Effective strategy of merging two teams ?",
+    "banner_description": "By definition, DevOps describes a software development process and an organizational culture shift that accelerates the delivery of higher-quality software by automating and integrating the efforts of IT development and operations teams, two groups that traditionally practiced separately or in silos.",
+    "Dev_meaning": "The Developers focus their efforts on ‘pushing out code.’ Changes and enhancements to production systems and attendant failures in providing service are seen as part of this rush to get the latest and greatest code out to consumers.",
+    "Ops_meaning": "The Operations groups, on the other hand, are “reactive.” They are focused on service management and incident response. Teams supporting operations tend to use organization models closely aligned with ITSM and ITIL. ",
+    "how_devops_works_title": "How DevOps Works",
+    "how_devops_works_text": "Under a DevOps model, development and operations teams are no longer “siloed.” Sometimes, these two teams are merged into a single team where the engineers work across the entire application lifecycle, from development and test to deployment to operations, and develop a range of skills not limited to a single function. \nIn some DevOps models, quality assurance and security teams may also become more tightly integrated with development and operations and throughout the application lifecycle. When security is the focus of everyone on a DevOps team, this is sometimes referred to as DevSecOps.",
+    "BenefitsDevOps": {
+      "Title": "Benefits of DevOps",
+      "Benefits1Title": "Speed",
+      "Benefits1Descrip": "Move at high velocity so you can innovate for customers faster, adapt to changing markets better, and grow more efficient at driving business results. The DevOps model enables your developers and operations teams to achieve these results.",
+      "Benefits2Title": "Rapid Delivery",
+      "Benefits2Descrip": "Increase the frequency and pace of releases so you can innovate and improve your product faster. Continuous integration and continuous delivery are practices that automate the software release process, from build to deploy.",
+      "Benefits3Title": "Relibility",
+      "Benefits3Descrip": "Ensure the quality of application updates and infrastructure changes so you can reliably deliver at a more rapid pace while maintaining a positive experience for end users.",
+      "Benefits4Title": "Scale",
+      "Benefits4Descrip": "Operate and manage your infrastructure and development processes at scale. Automation and consistency help you manage complex or changing systems efficiently and with reduced risk.",
+      "Benefits5Title": "Improved Collaboration",
+      "Benefits5Descrip": "Build more effective teams under a DevOps cultural model, which emphasizes values such as ownership and accountability. Developers and operations teams collaborate closely, share many responsibilities, and combine their workflows.",
+      "Benefits6Title": "Security",
+      "Benefits6Descrip": "Move quickly while retaining control and preserving compliance. You can adopt a DevOps model without sacrificing security by using automated compliance policies, fine-grained controls, and configuration management techniques."
+    },
+    "PracticesDevOps": {
+      "DevOpsTitle": "Continuous Integration",
+      "DevOpsDescrip": "Continuous integration is a software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. The key goals of continuous integration are to find and fix bugs faster, improve software quality, and reduce the time it takes for new updates",
+      "DevOpsTitle2": "Continuous Delivery",
+      "DevOpsDescrip2": "Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage."
+    }
+  },
+  "scrum": {
+    "banner_title": "Agile Scrum: \nWhat it is, how it Works ?",
+    "banner_description": "Scrum is an agile methodology used in the development of Software, based on an iterative and incremental processes.  Scrum is adaptable, fast, flexible and effective agile framework that is designed to deliver value to the client throughout the development of the project.",
+    "ScrumEvents": {
+      "Title": "Scrum Ceremonies",
+      "Descrip": "They are blocks of time to create regularity and minimize the need for unnecessary and indefinite meetings in Scrum.",
+      "event1": "Sprint planning",
+      "event1Paragraph": "The sprint plan is created by all members of the Scrum team collaboratively. In this ceremony, all the prioritized user stories are taken and it is decided which ones to sprint based on the sprint objective and the team's capacity. \n\nIt defines what can be delivered in the Increment resulting from the Sprint that begins and how the necessary work will be done to deliver the Increment.",
+      "event2": "Daily Scrum",
+      "event2Paragraph": "It is a daily meeting, of maximum 15 minutes, with all the members of the development team to discuss the progress that has been made towards the Sprint objective and plan the work for the next day. \n\nThen each member answered the other team members These or similar questions: Have I kept the commitment I made yesterday? What commitment will I commit to today? Do I see any impediment to achieve it?",
+      "event3": "Sprint review",
+      "event3Paragraph": "This is an informal meeting, not a follow-up. At the end of the Sprint, a Sprint review is carried out to inspect the Increment and adapt the Product List. \n\nDuring the Sprint review, the team and stakeholders collaborate to determine the following things that could be done to optimize value. The entire Scrum Team attends and stakeholders are invited. ",
+      "event4": "Sprint restrospective",
+      "event4Paragraph": "It is an opportunity for the Scrum team to inspect itself and create a plan for improvements that are addressed during the next Sprint. \n\nThe purpose of the Sprint Retrospective is Inspect how the last Sprint was in terms of people, relationships, processes and tools; Identify and order the most important elements that went well and the possible improvements and, Create a plan to implement improvements to the way the Scrum Team performs its work."
+    },
+    "ScrumTeam": {
+      "Title": "Team Scrum",
+      "Descrip": "It consists of a Product owner, the Development team and a Scrum Master. It is self organized and multifunctional. They deliver products iteratively and incrementally.",
+      "Team1": "Product owner",
+      "Team1Descrip": "He Is the person who knows and understands the needs of users, knows the business totally, and is responsible for transmitting that understanding to the development team (or solution team).",
+      "Team2": "Development team",
+      "Team2Descrip": "It is made up of developers, who executed the complex work beyond the code. They carry out project activities to create and deliver a preview of the finished product in each sprint.",
+      "Team3": "Scrum Master",
+      "Team3Descrip": "He is a leader who is at the service of the Scrum Team and the organization, helping them understand and live agility. He Know the status of the project, take care of events and that the team is multifunctional"
+    },
+    "ScrumArtifacts": {
+      "Title": "Artifacts in Scrum",
+      "Descrip": "They represent work or value in various ways that are helpful in providing transparency and opportunities for inspection and adaptation.",
+      "Artf1": "Product Backlog",
+      "Artf1Descrip": "It is an ordered list of everything that is known to be necessary in the product. It is the main source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product List, including its content, availability and ordering. The Product List evolves as the product and the environment in which it will be used do as well. Constantly changing to identify what the product needs to be suitable, competitive and useful.",
+      "Artf2": "Backlog Sprint",
+      "Artf2Descrip": "It is the set of items from the product list selected for the sprint, plus a plan to deliver the product increment and achieve the sprint objective. It makes visible all the work that the development team identifies as necessary to achieve the Sprint goal. To ensure continuous improvement, the sprint to do list includes at least one high priority process improvement identified in the immediately preceding Retrospective.",
+      "Artf3": "Increment",
+      "Artf3Descrip": "It is the sum of all the items on the Product List completed during the Sprint. Let's remember that Scrum is light and easy to understand, which is not so easy to stay aware of its essence and not fall into the common mistake of applying a series of practices just to apply them."
+    }
+  },
+  "blog": {
+    "subtitle_blog": "Stay Future",
+    "description_blog": "Value content of today and development of tomorrow"
   }
 }

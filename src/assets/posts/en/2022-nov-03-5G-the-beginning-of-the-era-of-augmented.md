@@ -1,6 +1,6 @@
 ---
 metaTitle: 5G as the beginning of the era of augmented reality and underlying technologies.
-metaDescription: 5G is the new global wireless standard for mobile networks which virtually everything would be interconnected, from machines, devices and objects in all sectors in general like we never seen before.
+meta_description: 5G is the new global wireless standard for mobile networks which virtually everything would be interconnected, from machines, devices and objects in all sectors in general like we never seen before.
 title: 5G technology as the beginning of the era of augmented reality and other underlying technologies
 read: 5 -10 min
 date: November 03, 2022

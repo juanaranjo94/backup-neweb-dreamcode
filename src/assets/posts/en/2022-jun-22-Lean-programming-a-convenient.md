@@ -1,6 +1,6 @@
 ---
 metaTitle: Lean Programming, a convenient software development practice inherited from the business world
-metaDescription: Understand what Lean Programming means and why it is so valuable in the technology industry.
+meta_description: Understand what Lean Programming means and why it is so valuable in the technology industry.
 title: Lean Programming, a convenient software development practice inherited from the business world.
 read: 5 -10 min
 date: June 22, 2022
@@ -19,7 +19,7 @@ This is how the Lean Manufacturing concept, developed by Toyota to position itse
 
 ## What does Lean Programming mean in software development?
 
-In broad terms, Lean Programming refers to **eliminating the unnecessary to produce high quality software**.  This principle is shared by the popular Agile Development methodology and is often confused.
+In broad terms, Lean Programming refers to **eliminating the unnecessary to produce high quality software**. This principle is shared by the popular Agile Development methodology and is often confused.
 Despite this, there are those who consider that the **Lean Programming methodology is much more precise and productive thanks to the convergence promoted by its precepts**, which are:
 
 **Waste elimination**

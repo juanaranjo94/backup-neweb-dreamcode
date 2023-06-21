@@ -1,6 +1,6 @@
 ---
 metaTitle: CIO (Director de Tecnología) el futuro de las empresas
-metaDescription: El rol del Director de Tecnología en el éxito transformacional de las empresas y su importancia para el futuro de estas.
+meta_description: El rol del Director de Tecnología en el éxito transformacional de las empresas y su importancia para el futuro de estas.
 title: El rol del Director de Tecnología en el futuro de las empresas
 read: 3min
 date: November 7, 2021

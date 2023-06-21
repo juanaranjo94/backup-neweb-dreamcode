@@ -1,0 +1,51 @@
+/*==========STYLES===========*/
+.swiper-blog-home {
+    overflow: hidden;
+  }  
+
+  .contentBlog {
+    display: flex;
+    align-items: center;
+    background-color: #B075D6;
+  }
+  .contentBlogItem {
+    display: flex;
+    align-items: center;
+  }
+  .contentBlogItem .feedback{
+    padding-left: 80px;
+    padding-right: 70px;
+    position: relative;
+    flex: 1 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+  }
+
+  .contentBlogItem .feedback p{
+    line-height: 27px;
+    color: #fff;
+  }
+
+
+/*==========ANIMATION===========*/
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+  .contentBlogItem .feedback {
+    padding: 30px 20px;
+    height: 390px;
+
+}
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+  .contentBlogItem .feedback {
+    padding: 30px 20px;
+}
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

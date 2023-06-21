@@ -1,6 +1,6 @@
 ---
 metaTitle: Qué es Agile Testing y cómo los proyectos de desarrollo de software se benefician de sus principios.
-metaDescription: Conoce cómo la automatización de pruebas puede agilizar el desarrollo de software sin alterar su calidad
+meta_description: Conoce cómo la automatización de pruebas puede agilizar el desarrollo de software sin alterar su calidad
 title: Qué es Agile testing y cómo aplicar sus pilares
 read: 3min
 date: February 8, 2022

@@ -1,6 +1,6 @@
 ---
 metaTitle: CI/CD, DevOps and Agile, When is one software development methodology better than the others?
-metaDescription: How are these three sophisticated and useful software production practices composed and what are their functional characteristics?
+meta_description: How are these three sophisticated and useful software production practices composed and what are their functional characteristics?
 title: CI/CD, DevOps and Agile, When is one software development methodology better than the others?
 read: 5 -10 min
 date: August 22, 2022

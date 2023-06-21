@@ -1,6 +1,6 @@
 ---
 metaTitle: Five approaches to responsive web design that favor business brand positioning
-metaDescription: Businesses need websites that fully meet the needs and capabilities of the devices from which their customers access them. This is a standard that all programmers oriented to mobile development cannot fail to meet.
+meta_description: Businesses need websites that fully meet the needs and capabilities of the devices from which their customers access them. This is a standard that all programmers oriented to mobile development cannot fail to meet.
 title: What is voice-driven user interface design?
 read: 5 -10 min
 date: November 02, 2022

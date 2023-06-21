@@ -1,6 +1,6 @@
 ---
-metaTitle: How to keep your digital assets constantly improved with DevOps 
-metaDescription: Learn all about DevOps functioning, process, and benefits in technology product development. 
+metaTitle: How to keep your digital assets constantly improved with DevOps
+meta_description: Learn all about DevOps functioning, process, and benefits in technology product development.
 title: DevOps, the recipe for success in enterprise software development
 read: 5min
 date: January 5, 2022
@@ -13,11 +13,11 @@ There is a methodology in software development whose results continue to be prov
 
 The term DevOps comes from the combination of "development" and "operations" and as a methodology it defines the combination of people, processes and technology to deliver continuous value to customers. In this sense, the DevOps culture or methodology means that there are no isolated roles and, on the contrary, a value chain is built that integrates different areas (development, IT operations, quality engineering and security), which coordinate and collaborate together to produce high quality products. By adopting a DevOps culture along with the practices and tools it promotes, teams can meet the needs of their customers, increase confidence in the applications they build, and achieve business goals in less time.
 
-Now, in a technological and corporate ecosystem as fast as the one we live in today, DevOps becomes the perfect tool for teams to function and operate as one and everyone can participate in each stage of the lifecycle of the application and its infrastructure in order to react quickly to business needs and to any eventuality that may arise during product development.  
+Now, in a technological and corporate ecosystem as fast as the one we live in today, DevOps becomes the perfect tool for teams to function and operate as one and everyone can participate in each stage of the lifecycle of the application and its infrastructure in order to react quickly to business needs and to any eventuality that may arise during product development.
 
 ## CUSTOMER AND END-USER PERCEPTION
 
-One of the main advantages of the DevOps methodology is that, due to its cross-cutting workflow throughout the entire programming process, its implementation generates a sense of real-time monitoring, process control and, ultimately, great customer satisfaction, since we are dealing with an efficient, transparent, moldable and agile service that is delivered in a short range of time and with superior quality. In addition to this, organizations have the advantage that the end user is always at the center of the development and, therefore, iterations, adjustments and tests guide the team and are the raw material to reach the desired product. 
+One of the main advantages of the DevOps methodology is that, due to its cross-cutting workflow throughout the entire programming process, its implementation generates a sense of real-time monitoring, process control and, ultimately, great customer satisfaction, since we are dealing with an efficient, transparent, moldable and agile service that is delivered in a short range of time and with superior quality. In addition to this, organizations have the advantage that the end user is always at the center of the development and, therefore, iterations, adjustments and tests guide the team and are the raw material to reach the desired product.
 
 The usability, key data and perspective of both the customer and the end user (their interests and preferences, daily routines, etc.) are the data on which the DevOps methodology is based and which directs the work with the objective of solving real needs and delivering products that meet everyone's expectations.
 
@@ -25,7 +25,7 @@ While the culture, the user and their needs must be taken into account when esta
 
 ## PHASE #1: PLANNING
 
-When conceiving the idea of a product, it is necessary to plan and establish phases that define and describe the characteristics and functionality of the applications and systems to be created. This planning includes the code writing stage, testing and review of the code, integration and construction by team members. DevOps seeks to solve problems and add functionalities very quickly while maintaining the quality and stability of the final product. 
+When conceiving the idea of a product, it is necessary to plan and establish phases that define and describe the characteristics and functionality of the applications and systems to be created. This planning includes the code writing stage, testing and review of the code, integration and construction by team members. DevOps seeks to solve problems and add functionalities very quickly while maintaining the quality and stability of the final product.
 
 In this phase, creating backlogs, tracking bugs, managing agile software development with Scrum, using Kanban boards and visualizing progress are just some of the ways DevOps teams plan with agility and transparency. Each team can integrate the work and planning tools with which they feel comfortable as long as a model that is open to all and internalized by each of the areas that will work on the project is guaranteed.
 
@@ -37,11 +37,11 @@ It is this automation that saves time in the execution of mechanical, usually ma
 
 But what does it all mean? In a nutshell, a visible gain in process. By enabling standardization, risks associated with manual processes can be prevented. Here are some of the key DevOps tasks that benefit most from automation:
 
-- In code development, automation allows developers to optimize time and thus simplify a project's tasks according to their complexity.  
-- In terms of visibility, teams can control all changes that arise from the code, troubleshoot issues, and continuously track bugs as they arise.  
-- The monitoring of metrics and large amounts of information is delivered through an automated report. A support that facilitates the compression of information for companies and saves valuable time in the analysis of big data. 
+- In code development, automation allows developers to optimize time and thus simplify a project's tasks according to their complexity.
+- In terms of visibility, teams can control all changes that arise from the code, troubleshoot issues, and continuously track bugs as they arise.
+- The monitoring of metrics and large amounts of information is delivered through an automated report. A support that facilitates the compression of information for companies and saves valuable time in the analysis of big data.
 
-In the development phase, automation becomes necessary and must be employed after due prioritization of events, identification of the root problem within the source code and a proactive methodology full of precision and agility to employ resources in the most efficient way possible. 
+In the development phase, automation becomes necessary and must be employed after due prioritization of events, identification of the root problem within the source code and a proactive methodology full of precision and agility to employ resources in the most efficient way possible.
 
 ## PHASE #3 DELIVERY
 

@@ -1,6 +1,6 @@
 ---
 metaTitle: La importancia de la retención del talento tecnológico
-metaDescription: Por qué retener talento tecnológico es crítico en el mundo de hoy. Información y consejos para mejorar la retención del personal de TI.
+meta_description: Por qué retener talento tecnológico es crítico en el mundo de hoy. Información y consejos para mejorar la retención del personal de TI.
 title: 5 razones para enfocarte en la retención de talento tecnológico
 read: 5min
 date: October 19, 2021

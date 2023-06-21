@@ -1,0 +1,79 @@
+.scrum_events_tab .nav-item .nav-link.active h3{
+    color: #fff;
+    font-weight: 700;
+}
+
+
+.scrum_events_tab .nav-item .nav-link {
+    border-color: #F7AC40;
+    padding: 20px 0px;
+    border-radius: 4px;
+    border: 2px solid #F7AC40;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+  }
+  
+  .scrum_events_tab .nav-item .nav-link .icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+  
+    color: #fff;
+    margin-bottom: 15px;
+  }
+  
+  .scrum_events_tab .nav-item .nav-link h3 {
+    color: #F7AC40;
+    white-space: pre-line;
+    margin-bottom: 0;
+  }
+  
+  .scrum_events_tab .nav-item .nav-link.active {
+    border: 0px solid transparent;
+    background : linear-gradient(90deg, rgba(244, 207, 87, 1) 0%, rgba(252, 115, 70, 1) 99.09%);
+  }
+
+  .scrum_events_tab .nav-item {
+    width: 25%;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+}
+
+.scrum_events_tab {
+    border: 0;
+    margin-bottom: 50px !important;
+}
+
+.scrum_artifacts_area {
+  background: linear-gradient(90deg,#f4cf57,#fc7346 99.09%);
+  color: #fff;
+}
+
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+  .scrum_events_tab .nav-item {
+    width: 45%;
+  }
+
+  .banner_img img {
+    width: 250px;
+  }
+
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+  .scrum_events_tab .nav-item {
+    width: 45%;
+}
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

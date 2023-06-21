@@ -1,6 +1,6 @@
 ---
 metaTitle: Case Study; Seguros Bolívar talks about its experience with DreamCode in tackling several projects
-metaDescription: How DreamCode has helped Seguros Bolívar scale their operations and turn their ideas into reality.
+meta_description: How DreamCode has helped Seguros Bolívar scale their operations and turn their ideas into reality.
 title: Seguros Bolívar and DreamCode Software transforming the future together
 read: 5 min
 date: December 05, 2022

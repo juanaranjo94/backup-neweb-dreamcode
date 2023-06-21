@@ -1,0 +1,31 @@
+.post-img {
+  height: 520px;
+  overflow: hidden;
+}
+
+.post_content h2 , .post_content h3 {
+  color: #32A6DA;
+  font-weight: 600;
+}
+
+.post_content h4 {
+  color: #677391;
+  font-weight: 500;
+}
+
+.post_content h2 {
+  font-size: 30px;
+}
+
+.post_content h3 {
+  font-size: 22px;
+}
+
+.post_area .breadcrumb {
+  display: flex;
+  padding: 2rem 0 0;
+  list-style: none;
+  background-color: #fff;
+  border-radius: 0.25rem;
+  justify-content: flex-start;
+}

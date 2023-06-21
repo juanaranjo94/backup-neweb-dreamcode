@@ -1,6 +1,6 @@
 ---
 metaTitle: APIs as bridges to better customer relationships
-metaDescription: Learn what APIs are and how they can improve business competitive advantages
+meta_description: Learn what APIs are and how they can improve business competitive advantages
 title: APIs as business bridges to better business-to-customer relationships
 read: 5 -10 min
 date: June 22, 2022
@@ -11,9 +11,9 @@ imglink: APIs-as-business-bridges-to-better-business-to-customer-relationships.j
 
 In a broad context, for developers APIs are sets of pieces of software that deliver certain functionalities to the applications where they are implemented, but for the end user they turn out to be extremely useful tools capable of raising their interactive experience to the highest degree of satisfaction, and this is undoubtedly the major business objective implicit in any digital initiative.
 
-On a practical level, APIs (Application Programming Interfaces) have two very precise objectives, the first is to **reduce time and effort in the work of software developers and the second, to save resources in companies** by allowing them to integrate external services within their own digital platforms to simplify the interaction of their customers. 
+On a practical level, APIs (Application Programming Interfaces) have two very precise objectives, the first is to **reduce time and effort in the work of software developers and the second, to save resources in companies** by allowing them to integrate external services within their own digital platforms to simplify the interaction of their customers.
 
-Although APIs are not visible to these end users, they are visible to developers because they are powerful and extremely versatile IT construction tools, so let's take a closer look at their concept. 
+Although APIs are not visible to these end users, they are visible to developers because they are powerful and extremely versatile IT construction tools, so let's take a closer look at their concept.
 
 ## What are APIs?
 
@@ -27,9 +27,10 @@ To better abstract the API concept and its applicability, let's suppose we are p
 Then, choosing any means of reservation we will be able to see the free seats and those already taken, and this information must be universal or else the potential chaos would collapse all the channels of attention, even the face-to-face ones.
 Now, taking into account that there are face-to-face, telephone and digital means to buy our flight tickets, how do offices, travel agencies, virtual advisors and booking applications manage to have the same information about the available offer in real time?
 
-If you thought of an API then we have managed to make clear the concept and its **determining advantage when doing business**, since the sales channels have become heterogeneous in order to reach all customers, that is why they cannot run the same software. What is possible is to **feed from the same information through the implementation of a standardized API able to nurture and be nurtured from each platform or point of sale**, thus democratizing the supply of products and services for any type of customer while increasing the profitability and profits of companies. 
+If you thought of an API then we have managed to make clear the concept and its **determining advantage when doing business**, since the sales channels have become heterogeneous in order to reach all customers, that is why they cannot run the same software. What is possible is to **feed from the same information through the implementation of a standardized API able to nurture and be nurtured from each platform or point of sale**, thus democratizing the supply of products and services for any type of customer while increasing the profitability and profits of companies.
 
 ## What are the main types of APIs?
+
 Moving on to a more technical and detailed explanation of APIs, there are four main types of APIs:
 
 **Open APIs**
@@ -45,24 +46,25 @@ These types of APIs are also known as private APIs because they exist solely to 
 This type of API integrates within itself other data or service APIs to provide an all-in-one solution (microservices) that through the synchronous execution of a sequence of tasks **boosts the performance of execution processes and the performance of service channels**.
 
 **API protocols (Web Service APIs)**.
-Fundamentally, a Web Service is an API created exclusively to establish a multidirectional web communication channel. It is therefore said that **"all Web Services are APIs but not all APIs are Web Services "**. 
+Fundamentally, a Web Service is an API created exclusively to establish a multidirectional web communication channel. It is therefore said that **"all Web Services are APIs but not all APIs are Web Services "**.
 Here are the most common types:
 
 **SOAP (Simple Object Access Protocol)**.
 This Web Service API **uses XML as a predefined format for data transfer** and is therefore quite robust and capable of solving any communication need.
 
 **REST (Representational State Transfer)**
-Because this protocol is a **set of structural rules that define how data should be created, read, updated and deleted** it is very useful when interactions are simple or resources are limited. 
+Because this protocol is a **set of structural rules that define how data should be created, read, updated and deleted** it is very useful when interactions are simple or resources are limited.
 
 **XML-RPC**
 This protocol **uses a specific XML format to transfer information which makes it quite simple and practical** as it requires reduced bandwidth for communication.
 
 **JSON-RPC**
-Very similar to XML-RPC this standard is quite simple and practical, **using JSON text format instead of XML** to achieve a much lighter and faster data transfer.   
+Very similar to XML-RPC this standard is quite simple and practical, **using JSON text format instead of XML** to achieve a much lighter and faster data transfer.
 
 This is how **APIs manage to enrich the user experience through better service access structures as well as the creation of new functionalities** that solve problems that remain unknown until now. This is the main reason why leading companies in the industry continue to design and implement APIs as a key element of innovation both for their customers and for their new business avenues.
 
 ## Uses and advantages of an API
+
 Basically, APIs are able to optimize many processes because they can generate the triggering or deployment of sets of actions one after the other.
 To summarize, **let's review in which areas the implementation of an API has managed to improve the cadence and results of certain processes**:
 

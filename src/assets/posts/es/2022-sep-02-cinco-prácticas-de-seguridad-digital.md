@@ -1,6 +1,6 @@
 ---
 metaTitle: 5 prácticas de seguridad digital para desarrollar software altamente confiable..
-metaDescription: La seguridad digital de las aplicaciones inicia justo en la fecha en la que inicia su proyecto de desarrollo, no cuando esta ha sido finalizada y se encuentra a portas de su lanzamiento.
+meta_description: La seguridad digital de las aplicaciones inicia justo en la fecha en la que inicia su proyecto de desarrollo, no cuando esta ha sido finalizada y se encuentra a portas de su lanzamiento.
 title: 5 prácticas de seguridad digital para desarrollar software altamente confiable
 read: 5 -10 min
 date: September 02, 2022

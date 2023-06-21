@@ -1,0 +1,66 @@
+/*==================== redesSociales ================================*/
+.redesSociales {
+    position: fixed;
+    bottom: 10%;
+    right: 0;
+    width: 5rem;
+    height: auto;
+    border-radius: 0 15px 15px 0;
+    border-left: 0;
+    z-index: 999999;
+    transition: all .2s linear
+  }
+  .social_iconos a {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    font-size: 18px;
+    line-height: 48px;
+    text-align: center;
+    transition: all 0.2s linear;
+    display: inline-block;
+    color: #fff;
+    border-color: #004B8E;
+    background: #0056b3;
+  }
+  .social_icon .btn_wsp:hover {
+    background: #00bb2d;
+    border-color: #00bb2d;
+  }
+  .social_iconos a:hover {
+    border-color: #004B8E;
+    color: #004B8E;
+    background: transparent;
+    border: 1px solid;
+  }
+  .redesSociales .social_iconos {
+    padding-bottom: 20px;
+  }
+  .btn_wsp i {
+    color: #fff;
+    font-size: 1.5rem!important;
+  }
+  .btn_wsp:hover {
+    background: #188c44;
+  }
+  .fa-whatsapp:before {
+    content: "\f232";
+  }
+
+  /*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .redesSociales .social_iconos {
+        padding-bottom: 15px;
+    }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+    .redesSociales .social_iconos {
+        padding-bottom: 15px;
+    }
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

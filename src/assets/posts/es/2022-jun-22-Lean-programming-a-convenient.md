@@ -1,6 +1,6 @@
 ---
-metaTitle: Lean Programming, una conveniente práctica de desarrollo de software heredada del mundo empresarial
-metaDescription: Comprende qué significa Lean Programming y por qué es tan valiosa en la industria tecnológica.
+metaTitle: Lean Programming, una conveniente práctica de desarrollo de software heredada del mundo empresarial
+meta_description: Comprende qué significa Lean Programming y por qué es tan valiosa en la industria tecnológica.
 title: Lean Programming, una conveniente práctica de desarrollo de software heredada del mundo empresarial
 read: 5 -10 min
 date: June 22, 2022

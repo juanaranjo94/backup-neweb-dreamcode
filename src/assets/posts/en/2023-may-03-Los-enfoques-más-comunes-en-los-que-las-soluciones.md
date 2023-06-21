@@ -1,6 +1,6 @@
 ---
 metaTitle: Common approaches in which high-level enterprise solutions are relevant
-metaDescription: High-level solutions can be a great option for your company when you discover sensitive and highly complex problems in various areas across your operation. This can have a significant and relevant impact on your immediate and future business success.
+meta_description: High-level solutions can be a great option for your company when you discover sensitive and highly complex problems in various areas across your operation. This can have a significant and relevant impact on your immediate and future business success.
 title: The most common approaches in which high-level enterprise solutions are most relevant
 read: 5 - 10 min
 date: May 03, 2023

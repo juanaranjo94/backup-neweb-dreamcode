@@ -1,6 +1,6 @@
 ---
 metaTitle: What a Data Scientist and why practically all companies can have one?
-metaDescription: Today organizations are increasingly taking advantage of Data Scientists to unlock the business power that lies within Big Data.
+meta_description: Today organizations are increasingly taking advantage of Data Scientists to unlock the business power that lies within Big Data.
 title: Who is the Data Scientist and why company should have one?
 read: 5 -10 min
 date: June 22, 2022
@@ -13,7 +13,7 @@ With an average of 2.5 quintillion bytes of data created daily, we are at an imp
 
 ## Big Data, the ideal scenario
 
-As we mentioned in a previous article, [Big Data](https://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools) refers to the information that usually comes from web applications and mobile devices which is quite massive and very complex to process using traditional methods. 
+As we mentioned in a previous article, [Big Data](https://www.dreamcodesoft.com/tremendous-potential-behind-big-data-and-its-analytics-tools) refers to the information that usually comes from web applications and mobile devices which is quite massive and very complex to process using traditional methods.
 
 But Big Data would not be relevant today without the work of professionals capable of converting interaction patterns into actionable and applicable information. These computer experts are what we know as Data Scientists and more and more organizations are taking advantage of their expertise to unlock the commercial power that lies within Big Data.
 
@@ -30,7 +30,7 @@ Consequently, these are the advantages of having a Data Scientist in your compan
 2. Recognition of essential objectives and taking actions based on recognized trends.
 3. Design and implementation of best business practices.
 4. Identification of improvement opportunities and new business initiatives.
-5. Testing of possible decisions and new business deployments. 
+5. Testing of possible decisions and new business deployments.
 6. Target audience profiling and refinement.
 7. Exploration and recruitment of suitable human talent.
 

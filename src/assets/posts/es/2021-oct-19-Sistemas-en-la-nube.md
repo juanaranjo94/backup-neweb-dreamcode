@@ -1,6 +1,6 @@
 ---
 metaTitle: La creciente necesidad de los sistemas en la nube
-metaDescription: Cómo las compañías están evolucionando sus estrategias de sistemas en la nube para
+meta_description: Cómo las compañías están evolucionando sus estrategias de sistemas en la nube para
 mantenerse eficaces y competitivas en la industria de la tecnología
 title: Sin sistemas en la nube su negocio dejará de ser competitivo
 read: 2min

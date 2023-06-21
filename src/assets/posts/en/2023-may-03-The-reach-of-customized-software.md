@@ -1,6 +1,6 @@
 ---
 metaTitle: Advantages of customized software and its differential impact on enterprises
-metaDescription: Given its commercial advantages, the number of companies choosing custom software to meet their needs is on the rise and today we will delve into the strategic value that these developments can bring to your business.
+meta_description: Given its commercial advantages, the number of companies choosing custom software to meet their needs is on the rise and today we will delve into the strategic value that these developments can bring to your business.
 title: The reach of customized software and its impact on companies
 read: 5 - 10 min
 date: May 03, 2023

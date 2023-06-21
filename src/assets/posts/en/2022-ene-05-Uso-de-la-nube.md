@@ -1,6 +1,6 @@
 ---
 metaTitle: The main uses of the cloud for your organization, which are they and how to benefit from them.
-metaDescription: The use of the cloud is expanding and demanding throughout the world's companies, but how to use it effectively?
+meta_description: The use of the cloud is expanding and demanding throughout the world's companies, but how to use it effectively?
 title: Types of cloud applications, how to benefit from them.
 read: 3min
 date: January 5, 2022

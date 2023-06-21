@@ -1,0 +1,72 @@
+.banner--benefics {
+    background: url("../../img/careers/banner-benefits.jpg") no-repeat scroll center bottom;
+    background-size: cover;
+    padding: 70px 0px 70px;
+}
+
+
+
+.benefits_item img {
+  max-width: 100%;
+}
+
+.banners--job {
+  background: linear-gradient(90deg,#70149c,#4813f7);
+  background-size: cover;
+  background-position: unset;
+}
+
+.img-icons > .w-10 + .w-10 {
+    margin-left: 60px;
+  }
+  
+  .benefits_item {
+    position: relative;
+    text-align: center;
+    margin-bottom: 40px;
+    overflow: hidden;
+  }
+  
+  .img-icons img {
+    max-width: 100%;
+    width: 8%;
+  }
+
+  .img-icons > img + img {
+    margin-left: 60px;
+  }
+  
+  .benefits_item .team_content {
+    bottom: 0;
+    background: #9529F9;
+    padding: 20px 10px;
+    transition: all 0.4s ease;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 102px;
+  }
+
+
+  /*==========ANIMATION===========*/
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .benefits_item .team_content {
+        height: 60px;
+      }
+    
+      .benefits_item .team_content h3 {
+        font-size: 15px;
+      }
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

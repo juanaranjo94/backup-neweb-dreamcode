@@ -1,6 +1,6 @@
 ---
 metaTitle: Developing applications; The Software Development Life Cycle (SDLC)
-metaDescription: The software development life cycle aims to produce high-value software on expected time and cost to meet or exceed expectations.
+meta_description: The software development life cycle aims to produce high-value software on expected time and cost to meet or exceed expectations.
 title: Developing applications; The Software Development Life Cycle (SDLC)
 read: 5 -10 min
 date: October 02, 2022

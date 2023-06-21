@@ -1,6 +1,6 @@
 ---
 metaTitle: Top 5 programming languages for mobile development
-metaDescription: Developing applications puts our expertise to the test, success lies in creating differential and useful products that attract and benefit the largest possible number of users.
+meta_description: Developing applications puts our expertise to the test, success lies in creating differential and useful products that attract and benefit the largest possible number of users.
 title: Pros and cons of the top 5 programming languages for mobile development.
 read: 5 -10 min
 date: October 02, 2022

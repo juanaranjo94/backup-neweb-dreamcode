@@ -1,6 +1,6 @@
 ---
 metaTitle: Dispositivos plegables, ¿Cómo diseñar y desarrollar sus aplicaciones? (IA)
-metaDescription: Para el 2023, se espera que haya aproximadamente 30 millones de móviles plegables en el mercado global, según Gartner.
+meta_description: Para el 2023, se espera que haya aproximadamente 30 millones de móviles plegables en el mercado global, según Gartner.
 title: Dispositivos plegables, ¿Cómo diseñar y desarrollar sus aplicaciones? (IA)
 read: 5 -10 min
 date: November 03, 2022
@@ -13,7 +13,7 @@ Una nueva tendencia en el mercado global de la telefonía inteligente son los m�
 
 Desde el lanzamiento del móvil Samsung Galaxy Z Fold en el año 2018 los dispositivos plegables se convirtieron en una nueva fuente de oportunidades para desarrollar aplicaciones innovadoras. Esto se debe a que en un mismo dispositivo el usuario puede disfrutar nuevas experiencias interactivas que resultan complementarias gracias a las 3 funciones de plegado que tienen las pantallas de estos móviles.
 
-## ¿Qué podemos interpretar a partir de las estadísticas del mercado de los dispositivos plegables?
+## ¿Qué podemos interpretar a partir de las estadísticas del mercado de los dispositivos plegables?
 
 Estudios realizados a lo largo y ancho del mundo han dejado en claro que una de las características más deseadas y esperadas entre los adeptos de la telefonía móvil inteligente es que estos sean plegables. Pero, antes de abrazar esta tecnología como la nueva tendencia universal, es pertinente aclarar que los dispositivos plegables han estado presentes en el mercado desde el año 2018. La diferencia es que en esta oportunidad estos terminales han madurado de forma más consistente y acertada logrando que su nueva propuesta funcional atraiga oleadas de nuevos usuarios.
 
@@ -37,7 +37,7 @@ En cuanto a capacidad de almacenamiento se refiere, los dispositivos móviles pl
 
 Por último, en el apartado de precios, la baja disponibilidad y la alta demanda por dispositivos móviles plegables ha posicionado a los que se encuentran en un rango de 500 USD y 1500 USD como los más populares, los cuales dominan el mercado actual con una participación de más del 50%. Sin embargo, se espera que esto tome otro rumbo prontamente dado que esta tecnología es bastante joven en la industria de los smartphones y muy pocas marcas han entrado a este nicho del mercado.
 
-## ¿Cómo crear aplicaciones para pantallas plegables?
+## ¿Cómo crear aplicaciones para pantallas plegables?
 
 Los dispositivos plegables proveen experiencias de usuario de primer nivel gracias a su flexibilidad tanto de hardware como de software. Este es sin duda un punto de partida para el diseño y también para el desarrollo de aplicaciones de alta calidad que tengan el propósito de crear experiencias atractivas, inmersivas y versátiles para los usuarios de esta tecnología.
 

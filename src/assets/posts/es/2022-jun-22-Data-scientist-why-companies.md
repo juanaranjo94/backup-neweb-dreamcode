@@ -1,6 +1,6 @@
 ---
 metaTitle: ¿Qué un Data Scientist y por qué prácticamente todas las empresas deberían contar con uno?
-metaDescription: Hoy en día cada vez más organizaciones están tomando ventaja de los Data Scientists para desbloquear el poder comercial que yace dentro del Big Data.
+meta_description: Hoy en día cada vez más organizaciones están tomando ventaja de los Data Scientists para desbloquear el poder comercial que yace dentro del Big Data.
 title: ¿Qué un Data Scientist y por qué todas las empresas deberían contar con uno?
 read: 5 -10 min
 date: June 22, 2022

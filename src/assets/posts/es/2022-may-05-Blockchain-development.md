@@ -1,6 +1,6 @@
 ---
 metaTitle: Blockchain y el desarrollo de aplicaciones en la economía digital
-metaDescription: Descubre qué es la Blockchain, la tecnología detrás del Bitcoin y otros desarrollos que día a día gana mayor terreno en el mundo financiero.
+meta_description: Descubre qué es la Blockchain, la tecnología detrás del Bitcoin y otros desarrollos que día a día gana mayor terreno en el mundo financiero.
 title: Blockchain, la tecnología de desarrollo de aplicaciones financieras que busca digitalizar la economía
 read: 5 -10 min
 date: May 5, 2022
@@ -77,7 +77,7 @@ Del mismo modo, empresas financieras como R3 y JP Morgan han desarrollado **nuev
 
 Por ello la firma consultora Gartner augura que **para el cierre del presente año alrededor del 25% de las empresas globales habrán dado el si a la adopción de los Smart Contracts dentro de su operación**.
 
-En conclusión, esta tecnología aunque disruptiva todavía es muy joven y **tiene un largo camino por recorrer antes de perfilarse como la nueva corriente de los negocios**. Aunque no debemos olvidar que estas plataformas evolucionan a pasos de gigante y **podría ser un error estratégico por parte de las empresas, y sus CIO’s, dejarlas fuera de sus radares**.
+En conclusión, esta tecnología aunque disruptiva todavía es muy joven y **tiene un largo camino por recorrer antes de perfilarse como la nueva corriente de los negocios**. Aunque no debemos olvidar que estas plataformas evolucionan a pasos de gigante y **podría ser un error estratégico por parte de las empresas, y sus CIO's, dejarlas fuera de sus radares**.
 
 Desde Dreamcode comprendemos el gran reto que significa para muchas empresas la adopción de nuevas procesos, aún así **es imperativo estar a la vanguardia en la transformación tecnológica que estamos viviendo**. Por esta razón, prestamos servicios de asesoría y orientación centrados en la integración de herramientas tecnológicas empresariales con el propósito de incrementar el nivel de competitividad que hoy por hoy tiene estándares muy altos.
 

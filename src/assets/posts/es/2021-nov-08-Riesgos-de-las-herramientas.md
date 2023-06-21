@@ -1,6 +1,6 @@
 ---
 metaTitle: Riesgos de las herramientas sin código
-metaDescription: Por qué desarrollar en herramientas sin código como Amazon HoneyCode no es rentable para proyectos flexibles.
+meta_description: Por qué desarrollar en herramientas sin código como Amazon HoneyCode no es rentable para proyectos flexibles.
 title: Los riesgos de desarrollar empleando herramientas “Sin código”
 read: 3min
 date: November 8, 2021

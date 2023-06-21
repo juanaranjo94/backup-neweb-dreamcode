@@ -1,6 +1,6 @@
 ---
 metaTitle: The Importance of Retaining Tech Talent
-metaDescription: Why retaining technology talent is critical in today's world. Information and tips to improve IT staff retention.
+meta_description: Why retaining technology talent is critical in today's world. Information and tips to improve IT staff retention.
 title: 5 Reasons to Focus on Tech Talent Retention
 read: 5min
 date: October 19, 2021
@@ -16,6 +16,7 @@ The pandemic brought with it one of the largest labor migrations in history. Mil
 Unbeatable offers, salaries that exceeded all expectations, benefits, and flexibility for the worker where few of the reasons that increased the rate of resignations and swelled the list of employees of companies with more economic resources. In such an environment, retaining tech talent would seem to be mission impossible. However, at DreamCode we are here to help. We know first-hand the ins and outs of the ever- evolving technology market and we know how to help you adapt your business to it. With that goal in mind, we've compiled some of the reasons that will convince you why retaining tech talent can be a wonderful strategic move that will save you a huge number of resources.
 
 ## **The pandemic brought options that threaten retention in technology**
+
 As we mentioned earlier, we are sure that if you are having a hard time retaining technology talent in your organization right now, it is 80% pandemic’s fault. Maybe one of your top performers received an offer that doubled the salary you were giving him, and he had no choice but to accept. Or maybe you never thought you would compete for talent in your city directly with Google, Amazon, or Apple. The rules of the game have changed and so must your mindset and planning. If you're still not convinced, review the following reasons why retaining tech talent should be the cornerstone of your organization:
 
 ## **Reason #1 The loyal employee is scarcer in technology:**
@@ -36,7 +37,7 @@ Any company feels the price of losing an effective element that understands the 
 
 A well-deserved raise will always be cheaper than a process of selection, onboarding, training, and optimization of technological talent. So, in addition to seeing each of your employees as a person with strengths and weaknesses, also consider all the resources it would cost your organization to let him go, as well as all the resources he has managed to gain. Retaining IT staff starts with knowing their true value.
 
-## **How do you retain IT staff while competing against the entire world?** 
+## **How do you retain IT staff while competing against the entire world?**
 
 ### **Reason #4 Building an organizational culture takes time:**
 

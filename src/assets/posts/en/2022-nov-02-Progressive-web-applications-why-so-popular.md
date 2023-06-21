@@ -1,6 +1,6 @@
 ---
 metaTitle: Progressive web applications and its popularity
-metaDescription: Progressive web applications are software solutions that integrate the visual and functional structure of traditional (native) applications, but their infrastructure and operability are supported by current web technology.
+meta_description: Progressive web applications are software solutions that integrate the visual and functional structure of traditional (native) applications, but their infrastructure and operability are supported by current web technology.
 title: Progressive web applications, Why so popular?
 read: 5 -10 min
 date: November 02, 2022

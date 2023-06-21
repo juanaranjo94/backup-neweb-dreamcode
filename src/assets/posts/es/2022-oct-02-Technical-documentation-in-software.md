@@ -1,6 +1,6 @@
 ---
 metaTitle: La documentación técnica en el desarrollo de software y sus modelos
-metaDescription: La documentación técnica es la forma idónea que como profesionales del desarrollo de software debemos emplear para compartir la información puntual relacionada a la creación de software y sus etapas.
+meta_description: La documentación técnica es la forma idónea que como profesionales del desarrollo de software debemos emplear para compartir la información puntual relacionada a la creación de software y sus etapas.
 title: La documentación técnica en el desarrollo de software y sus modelos
 read: 5 -10 min
 date: October 02, 2022

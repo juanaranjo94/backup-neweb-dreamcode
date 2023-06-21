@@ -1,6 +1,6 @@
 ---
 metaTitle: UI/UX, Pilares fundamentales del desarrollo de aplicaciones web de alto valor
-metaDescription: La interfaz de usuario (UI) y la experiencia de usuario (UX) son dos criterios de diseño que en la actualidad son definitivos en lo que se refiere al desarrollo de aplicaciones de gran valor para usuarios de cualquier plataforma.
+meta_description: La interfaz de usuario (UI) y la experiencia de usuario (UX) son dos criterios de diseño que en la actualidad son definitivos en lo que se refiere al desarrollo de aplicaciones de gran valor para usuarios de cualquier plataforma.
 title: UI/UX, Dos pilares fundamentales para el desarrollo de aplicaciones y sitios web de alto valor
 read: 5 min
 date: May 5, 2022

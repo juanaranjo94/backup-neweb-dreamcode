@@ -1,6 +1,6 @@
 ---
 metaTitle: Software development, the most benefited from remote working
-metaDescription: Why Software Development will continue to benefit from telework trends in 2022 and the future of remote working in technology
+meta_description: Why Software Development will continue to benefit from telework trends in 2022 and the future of remote working in technology
 title: Remote working in Software Development from necessary to ideal
 read: 5min
 date: October 18, 2021

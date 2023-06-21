@@ -1,6 +1,6 @@
 ---
 metaTitle: Desarrollo de Software, el más beneficiado del teletrabajo
-metaDescription: Por qué el Desarrollo de Software seguirá beneficiándose de las tendencias del teletrabajo en el 2022 y el futuro del teletrabajo en tecnología
+meta_description: Por qué el Desarrollo de Software seguirá beneficiándose de las tendencias del teletrabajo en el 2022 y el futuro del teletrabajo en tecnología
 title: Teletrabajo en Desarrollo de Software pasó de necesario a ideal
 read: 5min
 date: October 18, 2021

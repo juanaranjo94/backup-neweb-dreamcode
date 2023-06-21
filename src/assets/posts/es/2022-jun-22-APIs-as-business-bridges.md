@@ -1,6 +1,6 @@
 ---
 metaTitle: Las API's como puentes hacia mejores relaciones con los clientes
-metaDescription: Conoce qué son las APIs y cómo pueden mejorar las ventajas competitivas de los negocios.
+meta_description: Conoce qué son las APIs y cómo pueden mejorar las ventajas competitivas de los negocios.
 title: Las API's como puentes empresariales hacia mejores relaciones entre empresas y clientes
 read: 5 -10 min
 date: June 22, 2022

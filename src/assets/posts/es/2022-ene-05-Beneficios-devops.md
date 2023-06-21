@@ -1,6 +1,6 @@
 ---
 metaTitle: Cómo mantener tus activos digitales en constante mejora con DevOps
-metaDescription: Conoce todo sobre el funcionamiento, proceso y beneficios de DevOps en el desarrollo de activos digitales.
+meta_description: Conoce todo sobre el funcionamiento, proceso y beneficios de DevOps en el desarrollo de activos digitales.
 title: DevOps, la receta del éxito en desarrollo de software para empresas
 read: 5min
 date: January 5, 2022

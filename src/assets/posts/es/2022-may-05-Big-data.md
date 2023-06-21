@@ -1,6 +1,6 @@
 ---
 metaTitle: El Big Data y sus herramientas de analítica
-metaDescription: Descubre el enorme potencial detrás del Big Data y sus herramientas de analítica.
+meta_description: Descubre el enorme potencial detrás del Big Data y sus herramientas de analítica.
 title: El enorme potencial detrás del Big Data y el desarrollo de software de analítica
 read: 3 -5 min
 date: May 5, 2022

@@ -1,6 +1,6 @@
 ---
 metaTitle: Microservicios explicados al detalle, definición, beneficios y usos
-metaDescription: Entiende los microservicios, qué son, cómo funcionan, cómo puedes aplicarlos en tu negocio y qué beneficios representan.
+meta_description: Entiende los microservicios, qué son, cómo funcionan, cómo puedes aplicarlos en tu negocio y qué beneficios representan.
 title: Todo lo que debes saber sobre microservicios
 read: 5min
 date: March 3, 2022

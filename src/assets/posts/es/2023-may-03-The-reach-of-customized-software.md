@@ -1,6 +1,6 @@
 ---
 metaTitle: Alcances del software personalizado y su impacto en las empresas
-metaDescription: Gracias a sus ventajas comerciales y su valor estratégico en los negocios, la cifra de empresas que elige el software a medida para satisfacer sus necesidades se encuentra en aumento.
+meta_description: Gracias a sus ventajas comerciales y su valor estratégico en los negocios, la cifra de empresas que elige el software a medida para satisfacer sus necesidades se encuentra en aumento.
 title: Los alcances del software personalizado y su impacto en las empresas
 read: 5 - 10 min
 date: May 03, 2023

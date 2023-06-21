@@ -1,6 +1,6 @@
 ---
 metaTitle: Por qué las grandes empresas en el mundo prefieren Java
-metaDescription: Razones por las cuales Java es el lenguaje de programación de las grandes compañías alrededor del mundo y por qué deberías emplearlo.
+meta_description: Razones por las cuales Java es el lenguaje de programación de las grandes compañías alrededor del mundo y por qué deberías emplearlo.
 title: Por qué las empresas más grandes del mundo usan Java
 read: 5min
 date: January 5, 2022

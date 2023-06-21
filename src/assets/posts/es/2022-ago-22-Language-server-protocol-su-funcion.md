@@ -1,6 +1,6 @@
 ---
 metaTitle: Language Server Protocol y su función en el campo del desarrollo de software
-metaDescription: Language Server Protocol es un estándar creado por Microsoft con el objetivo de definir una mejor comunicación entre un editor de código fuente o IDE y los servidores que contienen los requerimientos y funciones de un lenguaje de programación específico.
+meta_description: Language Server Protocol es un estándar creado por Microsoft con el objetivo de definir una mejor comunicación entre un editor de código fuente o IDE y los servidores que contienen los requerimientos y funciones de un lenguaje de programación específico.
 title: Language Server Protocol y su función en el campo del desarrollo de software
 read: 5 -10 min
 date: August 22, 2022

@@ -1,6 +1,6 @@
 ---
 metaTitle: Áreas de impacto de la inteligencia artificial (IA) en el mundo de los negocios del 2023
-metaDescription: IA ha logrado transformar la manera en la que las empresas operan, mejorando la eficiencia, la personalización, el análisis de datos, la seguridad y la innovación en los negocios.
+meta_description: IA ha logrado transformar la manera en la que las empresas operan, mejorando la eficiencia, la personalización, el análisis de datos, la seguridad y la innovación en los negocios.
 title: Áreas de impacto de la inteligencia artificial (IA) en el mundo de los negocios del 2023
 read: 5 - 10 min
 date: March 20, 2023
@@ -41,7 +41,7 @@ La capacidad de la inteligencia artificial para mejorar la seguridad digital y l
 
 Esto se debe en parte que la IA ha permitido analizar los patrones de uso y las formas de interacción por medio de un nuevo enfoque, el cual permite detectar comportamientos anormales con una alta probabilidad de ser actividades fraudulentas.
 
-## Creación de nuevos productos y servicios
+## Creación de nuevos productos y servicios
 
 Gracias al aprendizaje automático las herramientas IA han avanzado hasta el punto de sugerir e impulsar a las empresas a desarrollar nuevos productos y servicios innovadores basados en su catálogo y la experiencia de los clientes.
 

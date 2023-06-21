@@ -1,8 +1,15 @@
 import React from 'react';
-import './../component/GreatPlace/great-place.css';
+import './../components/GreatPlace/great-place.css';
 import { useTranslation, Trans } from 'react-i18next';
 import Fade from 'react-reveal/Fade';
-import PlaceToWork from '../component/GreatPlace/PlacetoWork/PlaceToWork';
+import PlaceToWork from '../components/GreatPlace/PlacetoWork/PlaceToWork';
+import MetaDecorator from '../components/MetaDatos/MetaDecorator';
+import ReactGA from 'react-ga';
+import { ID_GOOGLE_ANALYTICS } from '../assets/Constants'
+
+    // Configuración de Google Analytics
+    ReactGA.initialize ({ID_GOOGLE_ANALYTICS}); 
+    ReactGA.pageview ("/great-place-to-work");
 
 function GreatPlace() {
 
@@ -10,6 +17,11 @@ function GreatPlace() {
 
   return (
     <>
+      <MetaDecorator 
+        title={t('meta_datos.meta_title_great')}
+        description={t('meta_datos.meta_description_great')}
+        type='Website'
+        url="great-place-to-work" />
       <section className='great--place min-vh-100'>
         <div className="container">
           <div className="great--content ">
@@ -36,9 +48,9 @@ function GreatPlace() {
             </div>
             <div className='great--place-area'>
             <Fade left>
-              <div className='great--place-logo'>
+              <figure className='great--place-logo'>
                 <img  src={require("../img/great-place/certification-great-place-to-work.png")} alt="Fondo Home" width="130" />
-              </div>
+              </figure>
             </Fade>
             </div>
           </div>

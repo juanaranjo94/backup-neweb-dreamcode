@@ -1,0 +1,75 @@
+.great--content h2 {
+    z-index: 1;
+    display: inline-block;
+
+    line-height: 1.1em;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-top: 0;
+    font-family: neue-haas-grotesk-display,sans-serif;
+    font-weight: 500;
+    letter-spacing: .01em;
+}
+
+.great--content h2 span {
+    position: relative;
+    left: 100px;
+}
+
+/*==========RESPONSIVE===========*/
+/*Mobil*/
+@media screen and (max-width:512px){
+    .great--content h2 {
+        font-size: 30px;
+        margin-bottom: -10px;
+    }
+    .great--content {
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .great--content h2 span {
+        left: 50px;
+    }
+    .grid--column {
+        -ms-grid-column-span: 1;
+        grid-column-end: 4;
+        grid-column-start: 1;
+        -ms-grid-row-span: 1;
+        grid-row-end: 2;
+        grid-row-start: 1;
+    }
+    .grid--img {
+        position: relative;
+        margin-bottom: 50px;
+    }
+    .grid--img-column {
+        height: auto;
+        min-height: 360px;
+        padding-right: 0;
+    }
+    .great--img.mod--1 {
+        max-height: 250px;
+        max-width: 64px;
+        margin-left: 0;
+    }
+    .great--img.mod--2 {
+        max-width: 200px;
+        margin-left: 24px;
+    }
+    .great--place-area { padding-left: 10px; }
+    .mod--lines { left: 0px; }
+    .content--intro { padding-left: 20px;}
+}
+/*Tablet*/
+@media (min-width: 513px) and (max-width:821px){
+    .great--content h2 {
+        font-size: 30px;
+        margin-bottom:  10px;
+    }
+
+
+}
+/*Desktop*/
+@media screen and (min-width:813px){
+
+}

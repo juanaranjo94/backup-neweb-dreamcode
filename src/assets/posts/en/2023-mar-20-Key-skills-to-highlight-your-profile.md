@@ -1,6 +1,6 @@
 ---
 metaTitle: Key skills to highlight your profile as an application developer
-metaDescription: Becoming an applications programmer is one of the best professional decisions that you can currently make, the technology industry is constantly growing, in which you can always find areas for innovation and development.
+meta_description: Becoming an applications programmer is one of the best professional decisions that you can currently make, the technology industry is constantly growing, in which you can always find areas for innovation and development.
 title: Key skills to highlight your profile as an application developer
 read: 5 - 10 min
 date: March 20, 2023
